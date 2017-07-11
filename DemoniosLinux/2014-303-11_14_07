@@ -1,0 +1,215 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 09:21 ?        00:00:01 /sbin/init
+root         2     0  0 09:21 ?        00:00:00 [kthreadd]
+root         3     2  0 09:21 ?        00:00:00 [ksoftirqd/0]
+root         5     2  0 09:21 ?        00:00:00 [kworker/0:0H]
+root         7     2  0 09:21 ?        00:00:02 [rcu_sched]
+root         8     2  0 09:21 ?        00:00:01 [rcuos/0]
+root         9     2  0 09:21 ?        00:00:01 [rcuos/1]
+root        10     2  0 09:21 ?        00:00:00 [rcu_bh]
+root        11     2  0 09:21 ?        00:00:00 [rcuob/0]
+root        12     2  0 09:21 ?        00:00:00 [rcuob/1]
+root        13     2  0 09:21 ?        00:00:00 [migration/0]
+root        14     2  0 09:21 ?        00:00:00 [watchdog/0]
+root        15     2  0 09:21 ?        00:00:00 [watchdog/1]
+root        16     2  0 09:21 ?        00:00:00 [migration/1]
+root        17     2  0 09:21 ?        00:00:00 [ksoftirqd/1]
+root        19     2  0 09:21 ?        00:00:00 [kworker/1:0H]
+root        20     2  0 09:21 ?        00:00:00 [khelper]
+root        21     2  0 09:21 ?        00:00:00 [kdevtmpfs]
+root        22     2  0 09:21 ?        00:00:00 [netns]
+root        23     2  0 09:21 ?        00:00:00 [writeback]
+root        24     2  0 09:21 ?        00:00:00 [kintegrityd]
+root        25     2  0 09:21 ?        00:00:00 [bioset]
+root        26     2  0 09:21 ?        00:00:00 [kworker/u5:0]
+root        27     2  0 09:21 ?        00:00:00 [kblockd]
+root        28     2  0 09:21 ?        00:00:00 [ata_sff]
+root        29     2  0 09:21 ?        00:00:00 [khubd]
+root        30     2  0 09:21 ?        00:00:00 [md]
+root        31     2  0 09:21 ?        00:00:00 [devfreq_wq]
+root        34     2  0 09:21 ?        00:00:00 [khungtaskd]
+root        35     2  0 09:21 ?        00:00:02 [kswapd0]
+root        36     2  0 09:21 ?        00:00:00 [ksmd]
+root        37     2  0 09:21 ?        00:00:00 [khugepaged]
+root        38     2  0 09:21 ?        00:00:00 [fsnotify_mark]
+root        39     2  0 09:21 ?        00:00:00 [ecryptfs-kthrea]
+root        40     2  0 09:21 ?        00:00:00 [crypto]
+root        52     2  0 09:21 ?        00:00:00 [kthrotld]
+root        72     2  0 09:21 ?        00:00:00 [deferwq]
+root        73     2  0 09:21 ?        00:00:00 [charger_manager]
+root       122     2  0 09:21 ?        00:00:00 [kpsmoused]
+root       123     2  0 09:21 ?        00:00:00 [scsi_eh_0]
+root       124     2  0 09:21 ?        00:00:00 [scsi_eh_1]
+root       125     2  0 09:21 ?        00:00:00 [scsi_eh_2]
+root       126     2  0 09:21 ?        00:00:00 [scsi_eh_3]
+root       127     2  0 09:21 ?        00:00:00 [scsi_eh_4]
+root       128     2  0 09:21 ?        00:00:00 [scsi_eh_5]
+root       147     2  0 09:21 ?        00:00:00 [jbd2/sda9-8]
+root       148     2  0 09:21 ?        00:00:00 [ext4-rsv-conver]
+root       290     1  0 09:21 ?        00:00:00 upstart-udev-bridge --daemon
+root       295     1  0 09:21 ?        00:00:00 /lib/systemd/systemd-udevd --daemon
+root       363     2  0 09:21 ?        00:00:00 [cfg80211]
+root       388     2  0 09:21 ?        00:00:00 [ttm_swap]
+root       402     2  0 09:21 ?        00:00:00 [led_workqueue]
+root       403     2  0 09:21 ?        00:00:00 [hd-audio0]
+root       446     2  0 09:21 ?        00:00:00 [hd-audio1]
+root       575     2  0 09:21 ?        00:00:00 [jbd2/sda7-8]
+root       576     2  0 09:21 ?        00:00:00 [ext4-rsv-conver]
+root       581     2  0 09:21 ?        00:00:00 [jbd2/sda10-8]
+root       582     2  0 09:21 ?        00:00:00 [ext4-rsv-conver]
+root       584     1  0 09:21 ?        00:00:00 upstart-socket-bridge --daemon
+root       612     1  0 09:21 ?        00:00:00 smbd -F
+message+   644     1  0 09:21 ?        00:00:01 dbus-daemon --system --fork
+root       665     1  0 09:21 ?        00:00:00 /usr/sbin/ModemManager
+root       680     1  0 09:21 ?        00:00:00 upstart-file-bridge --daemon
+syslog     690     1  0 09:21 ?        00:00:00 rsyslogd
+root       700     1  0 09:21 ?        00:00:00 /lib/systemd/systemd-logind
+avahi      704     1  0 09:21 ?        00:00:00 avahi-daemon: running [nen-R530-R730.local]
+avahi      705   704  0 09:21 ?        00:00:00 avahi-daemon: chroot helper
+root       710     1  0 09:21 ?        00:00:00 /usr/sbin/bluetoothd
+root       717     2  0 09:21 ?        00:00:00 [krfcommd]
+root       769     1  0 09:21 ?        00:00:01 NetworkManager
+root       789     1  0 09:21 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+root       809     1  0 09:21 ?        00:00:00 /sbin/wpa_supplicant -B -P /run/sendsigs.omit.d/wpasupplicant.pid -u -s -O /var/run/wpa_supplicant
+root       868   612  0 09:21 ?        00:00:00 smbd -F
+root       895     1  0 09:21 tty4     00:00:00 /sbin/getty -8 38400 tty4
+root       899     1  0 09:21 tty5     00:00:00 /sbin/getty -8 38400 tty5
+root       906     1  0 09:21 tty2     00:00:00 /sbin/getty -8 38400 tty2
+root       907     1  0 09:21 tty3     00:00:00 /sbin/getty -8 38400 tty3
+root       910     1  0 09:21 tty6     00:00:00 /sbin/getty -8 38400 tty6
+kernoops   965     1  0 09:21 ?        00:00:00 /usr/sbin/kerneloops
+root       974     1  0 09:21 ?        00:00:00 lightdm
+root       994     1  0 09:21 ?        00:00:00 acpid -c /etc/acpi/events -s /var/run/acpid.socket
+root      1014     1  0 09:21 ?        00:00:00 /usr/sbin/cups-browsed
+whoopsie  1029     1  0 09:21 ?        00:00:00 whoopsie
+root      1040     1  0 09:21 ?        00:00:00 cron
+daemon    1042     1  0 09:21 ?        00:00:00 atd
+root      1047     1  0 09:21 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root      1067     1  0 09:21 tty1     00:00:00 /sbin/getty -8 38400 tty1
+root      1081   974  1 09:21 tty7     00:01:52 /usr/bin/X -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1091   974  0 09:21 ?        00:00:00 lightdm --session-child 12 15
+root      1094     2  0 09:21 ?        00:00:00 [kauditd]
+nen       1103  1091  0 09:21 ?        00:00:00 init --user
+nen       1160     1  0 09:21 ?        00:00:00 dbus-launch --autolaunch=1bdf99be265a25552500c63a54347151 --binary-syntax --close-stderr
+nen       1176     1  0 09:21 ?        00:00:00 //bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+nen       1177  1103  0 09:21 ?        00:00:00 ssh-agent -s
+nen       1182  1103  0 09:21 ?        00:00:03 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-XWPEox8oPh
+nen       1190  1103  0 09:21 ?        00:00:00 upstart-event-bridge
+nen       1196  1103  0 09:21 ?        00:00:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+nen       1202  1103  0 09:21 ?        00:00:00 upstart-dbus-bridge --daemon --system --user --bus-name system
+nen       1204  1103  0 09:21 ?        00:00:00 upstart-dbus-bridge --daemon --session --user --bus-name session
+nen       1208  1103  0 09:21 ?        00:00:00 upstart-file-bridge --daemon --user
+nen       1210  1103  0 09:21 ?        00:00:19 /usr/bin/ibus-daemon --daemonize --xim
+nen       1225  1103  0 09:21 ?        00:00:00 /usr/lib/unity-settings-daemon/unity-settings-daemon
+nen       1230  1103  0 09:21 ?        00:00:08 /usr/lib/x86_64-linux-gnu/hud/hud-service
+nen       1232  1103  0 09:21 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+nen       1233  1103  0 09:21 ?        00:00:00 gnome-session --session=ubuntu
+nen       1235  1103  0 09:21 ?        00:00:18 /usr/lib/unity/unity-panel-service
+nen       1239  1232  0 09:21 ?        00:00:00 /bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+nen       1244  1103  0 09:21 ?        00:00:00 /usr/lib/gvfs/gvfsd
+nen       1250  1103  0 09:21 ?        00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+nen       1251  1210  0 09:21 ?        00:00:00 /usr/lib/ibus/ibus-dconf
+nen       1252  1210  0 09:21 ?        00:00:03 /usr/lib/ibus/ibus-ui-gtk3
+nen       1254  1103  0 09:21 ?        00:00:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+nen       1266  1103  0 09:21 ?        00:00:02 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+nen       1279  1103  0 09:21 ?        00:00:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+root      1305     1  0 09:21 ?        00:00:00 /usr/lib/upower/upowerd
+nen       1324  1103  0 09:21 ?        00:00:00 /usr/bin/gnome-keyring-daemon --start --components=secrets
+nen       1334  1103  0 09:21 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard-service --use-gtk
+nen       1335  1210  0 09:21 ?        00:00:05 /usr/lib/ibus/ibus-engine-simple
+nen       1404  1103  0 09:21 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+nen       1409  1103  0 09:21 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+nen       1411  1103  0 09:21 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+nen       1412  1103  0 09:21 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+nen       1413  1103  0 09:21 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+nen       1415  1103  0 09:21 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+nen       1418  1103  0 09:21 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+nen       1431  1103  0 09:21 ?        00:00:01 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+nen       1440  1103  0 09:21 ?        00:00:00 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     1454     1  0 09:21 ?        00:00:00 /usr/lib/rtkit/rtkit-daemon
+nen       1499  1103  0 09:21 ?        00:00:00 /usr/lib/evolution/evolution-source-registry
+colord    1595     1  0 09:21 ?        00:00:00 /usr/lib/colord/colord
+nen       1596  1225  0 09:21 ?        00:00:02 syndaemon -i 1.0 -t -K -R
+nen       1600  1103  0 09:21 ?        00:00:00 /usr/lib/dconf/dconf-service
+nen       1611  1103  0 09:21 ?        00:00:00 /usr/lib/evolution/evolution-calendar-factory
+nen       1621  1103  0 09:21 ?        00:00:04 /usr/lib/x86_64-linux-gnu/notify-osd
+nen       1625  1233  1 09:21 ?        00:01:22 compiz
+nen       1692  1233  0 09:21 ?        00:00:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+nen       1694  1233  0 09:21 ?        00:00:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+nen       1699  1233  0 09:21 ?        00:00:01 nm-applet
+nen       1701  1233  0 09:21 ?        00:00:07 nautilus -n
+nen       1704  1233  0 09:21 ?        00:00:11 python /opt/thefanclub/grive-tools/grive-indicator
+nen       1713  1103  0 09:21 ?        00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      1717     1  0 09:21 ?        00:00:01 /usr/lib/udisks2/udisksd --no-debug
+nen       1733  1103  0 09:21 ?        00:00:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+nen       1742  1103  0 09:21 ?        00:00:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+nen       1748  1103  0 09:21 ?        00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+nen       1755  1103  0 09:21 ?        00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+nen       1803  1103  0 09:21 ?        00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+nen       1820  1103  0 09:21 ?        00:00:00 /usr/lib/gvfs/gvfsd-metadata
+nen       1824  1103  0 09:21 ?        00:00:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.4 /org/gtk/gvfs/exec_spaw/1
+nen       1850  1233  0 09:21 ?        00:00:00 telepathy-indicator
+nen       1858  1103  0 09:21 ?        00:00:00 /usr/lib/telepathy/mission-control-5
+root      1865   769  0 09:21 ?        00:00:00 /sbin/dhclient -d -sf /usr/lib/NetworkManager/nm-dhcp-client.action -pf /run/sendsigs.omit.d/network-manager.dhclient-wlan0.pid -lf /var/lib/NetworkManager/dhclient-31cef3ab-668d-4693-98ec-1af245e912de-wlan0.lease -cf /var/lib/NetworkManager/dhclient-wlan0.conf wlan0
+nobody    1880   769  0 09:21 ?        00:00:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/run/sendsigs.omit.d/network-manager.dnsmasq.pid --listen-address=127.0.1.1 --conf-file=/var/run/NetworkManager/dnsmasq.conf --cache-size=0 --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root      2020     1  0 09:21 ?        00:00:00 nmbd -D
+root      2032     1  0 09:22 ?        00:00:00 /usr/sbin/cupsd -f
+nen       2044  1233  0 09:22 ?        00:00:01 zeitgeist-datahub
+nen       2049  1103  0 09:22 ?        00:00:00 /usr/bin/zeitgeist-daemon
+nen       2056  1103  0 09:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+nen       2067  2056  0 09:22 ?        00:00:00 /bin/cat
+nen       2146  1233  0 09:22 ?        00:00:00 update-notifier
+nen       2167  1103  0 09:22 ?        00:00:15 evince /home/nen/Escritorio/Enlace hacia Grado/1Cuatrimestre/Sistemas Operativos/Practicas/MODI-sesion4/SO-P-Modulo1-Sesion4-Guion.pdf
+nen       2174  1103  0 09:22 ?        00:00:00 /usr/lib/evince/evinced
+nen       2197  1103  0 09:22 ?        00:00:09 /usr/bin/python3 /usr/bin/update-manager --no-update --no-focus-on-map
+nen       2297  1233  0 09:23 ?        00:00:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+nen       2309  1103  0 09:23 ?        00:00:00 /usr/lib/libreoffice/program/oosplash --writer /home/nen/Escritorio/Enlace hacia Grado/1Cuatrimestre/Sistemas Operativos/Practicas/MODI-sesion4/SO-P-Modulo1-Sesion4-Autoevaluacion.odt
+nen       2327  2309  0 09:23 ?        00:00:30 /usr/lib/libreoffice/program/soffice.bin --writer /home/nen/Escritorio/Enlace hacia Grado/1Cuatrimestre/Sistemas Operativos/Practicas/MODI-sesion4/SO-P-Modulo1-Sesion4-Autoevaluacion.odt --splash-pipe=5
+nen       2367  1103  0 09:24 ?        00:00:24 gnome-terminal
+nen       2375  2367  0 09:24 ?        00:00:00 gnome-pty-helper
+nen       2376  2367  0 09:24 pts/0    00:00:00 bash
+root      2424  2376  0 09:24 pts/0    00:00:00 sudo su
+root      2425  2424  0 09:24 pts/0    00:00:00 su
+root      2426  2425  0 09:24 pts/0    00:00:00 bash
+root      2610     2  0 09:39 ?        00:00:04 [kworker/1:0]
+nen       3131  1103  0 10:08 ?        00:00:27 /opt/google/chrome/chrome     
+nen       3140  3131  0 10:08 ?        00:00:00 cat
+nen       3141  3131  0 10:08 ?        00:00:00 cat
+nen       3143  3131  0 10:08 ?        00:00:00 /opt/google/chrome/chrome-sandbox /opt/google/chrome/chrome --type=zygote
+nen       3144  3143  0 10:08 ?        00:00:00 /opt/google/chrome/chrome --type=zygote
+nen       3150  3144  0 10:08 ?        00:00:00 /opt/google/chrome/chrome-sandbox /opt/google/chrome/nacl_helper
+nen       3151  3150  0 10:08 ?        00:00:00 /opt/google/chrome/nacl_helper
+nen       3153  3144  0 10:08 ?        00:00:00 /opt/google/chrome/chrome --type=zygote
+nen       3173  3131  0 10:08 ?        00:00:00 /opt/google/chrome/chrome --type=gpu-process --channel=3131.0.907230355 --supports-dual-gpus=false --gpu-driver-bug-workarounds=1,15,20,23,44 --disable-accelerated-video-decode --gpu-vendor-id=0x10de --gpu-device-id=0x0a75 --gpu-driver-vendor --gpu-driver-version
+nen       3180  3173  0 10:08 ?        00:00:00 /opt/google/chrome/chrome --type=gpu-broker                                                                                                                                                                                                                 
+nen       3190  3153  0 10:09 ?        00:00:09 /opt/google/chrome/chrome --type=renderer --enable-deferred-image-decoding --lang=es --force-fieldtrials=DomRel-Enable/disable/ExtensionInstallVerification/None/OmniboxBundledExperimentV1/Preperiod_A2_StableBookmarksIndexURLs/PasswordGeneration/Disabled/Prerender/PrerenderEnabled/PrerenderLocalPredictorSpec/LocalPredictor=Disabled/QUIC/Disabled/RapporRollout/Enabled/SafeBrowsingIncidentReportingService/Default/SettingsEnforcement/no_enforcement/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Control/UMA-Population-Restrict/normal/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_18/UMA-Uniformity-Trial-1-Percent/group_62/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-100-Percent/group_01/UMA-Uniformity-Trial-20-Percent/group_01/UMA-Uniformity-Trial-5-Percent/group_02/UMA-Uniformity-Trial-50-Percent/group_01/VoiceTrigger/Install/ --extension-process --enable-webrtc-hw-h264-encoding --renderer-print-preview --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --enable-impl-side-painting --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel=3131.1.49454019
+nen       3200  3153  0 10:09 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --enable-deferred-image-decoding --lang=es --force-fieldtrials=AutoReloadExperiment/Enabled/AutoReloadVisibleOnlyExperiment/Enabled/DomRel-Enable/disable/ExtensionInstallVerification/None/OmniboxBundledExperimentV1/Preperiod_A2_StableBookmarksIndexURLs/PasswordGeneration/Disabled/Prerender/PrerenderEnabled/PrerenderLocalPredictorSpec/LocalPredictor=Disabled/QUIC/Disabled/RapporRollout/Enabled/SDCH/EnabledAll/SafeBrowsingIncidentReportingService/Default/SettingsEnforcement/no_enforcement/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Control/UMA-Population-Restrict/normal/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_18/UMA-Uniformity-Trial-1-Percent/group_62/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-100-Percent/group_01/UMA-Uniformity-Trial-20-Percent/group_01/UMA-Uniformity-Trial-5-Percent/group_02/UMA-Uniformity-Trial-50-Percent/group_01/VoiceTrigger/Install/ --extension-process --enable-webrtc-hw-h264-encoding --renderer-print-preview --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --enable-impl-side-painting --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel=3131.2.1035090226
+nen       3250  3153  1 10:09 ?        00:00:44 /opt/google/chrome/chrome --type=renderer --enable-deferred-image-decoding --lang=es --force-fieldtrials=AutoReloadExperiment/Enabled/AutoReloadVisibleOnlyExperiment/Enabled/DomRel-Enable/disable/ExtensionInstallVerification/None/OmniboxBundledExperimentV1/Preperiod_A2_StableBookmarksIndexURLs/PasswordGeneration/Disabled/Prerender/PrerenderEnabled/PrerenderLocalPredictorSpec/LocalPredictor=Disabled/QUIC/Disabled/RapporRollout/Enabled/SDCH/EnabledAll/SafeBrowsingIncidentReportingService/Default/SettingsEnforcement/no_enforcement/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Control/UMA-Population-Restrict/normal/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_18/UMA-Uniformity-Trial-1-Percent/group_62/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-100-Percent/group_01/UMA-Uniformity-Trial-20-Percent/group_01/UMA-Uniformity-Trial-5-Percent/group_02/UMA-Uniformity-Trial-50-Percent/group_01/VoiceTrigger/Install/ --extension-process --enable-webrtc-hw-h264-encoding --renderer-print-preview --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --enable-impl-side-painting --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel=3131.3.2114574333
+nen       3255  3153  0 10:09 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --enable-deferred-image-decoding --lang=es --force-fieldtrials=AutoReloadExperiment/Enabled/AutoReloadVisibleOnlyExperiment/Enabled/DomRel-Enable/disable/ExtensionInstallVerification/None/OmniboxBundledExperimentV1/Preperiod_A2_StableBookmarksIndexURLs/PasswordGeneration/Disabled/Prerender/PrerenderEnabled/PrerenderLocalPredictorSpec/LocalPredictor=Disabled/QUIC/Disabled/RapporRollout/Enabled/SDCH/EnabledAll/SafeBrowsingIncidentReportingService/Default/SettingsEnforcement/no_enforcement/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Control/UMA-Population-Restrict/normal/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_18/UMA-Uniformity-Trial-1-Percent/group_62/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-100-Percent/group_01/UMA-Uniformity-Trial-20-Percent/group_01/UMA-Uniformity-Trial-5-Percent/group_02/UMA-Uniformity-Trial-50-Percent/group_01/VoiceTrigger/Install/ --extension-process --enable-webrtc-hw-h264-encoding --renderer-print-preview --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --enable-impl-side-painting --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel=3131.4.923417835
+nen       3259  3153  0 10:09 ?        00:00:14 /opt/google/chrome/chrome --type=renderer --enable-deferred-image-decoding --lang=es --force-fieldtrials=AutoReloadExperiment/Enabled/AutoReloadVisibleOnlyExperiment/Enabled/DomRel-Enable/disable/ExtensionInstallVerification/None/OmniboxBundledExperimentV1/Preperiod_A2_StableBookmarksIndexURLs/PasswordGeneration/Disabled/Prerender/PrerenderEnabled/PrerenderLocalPredictorSpec/LocalPredictor=Disabled/QUIC/Disabled/RapporRollout/Enabled/SDCH/EnabledAll/SafeBrowsingIncidentReportingService/Default/SettingsEnforcement/no_enforcement/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Control/UMA-Population-Restrict/normal/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_18/UMA-Uniformity-Trial-1-Percent/group_62/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-100-Percent/group_01/UMA-Uniformity-Trial-20-Percent/group_01/UMA-Uniformity-Trial-5-Percent/group_02/UMA-Uniformity-Trial-50-Percent/group_01/VoiceTrigger/Install/ --extension-process --enable-webrtc-hw-h264-encoding --renderer-print-preview --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --enable-impl-side-painting --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel=3131.5.1774122968
+nen       3263  3153  0 10:09 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --enable-deferred-image-decoding --lang=es --force-fieldtrials=AutoReloadExperiment/Enabled/AutoReloadVisibleOnlyExperiment/Enabled/DomRel-Enable/disable/ExtensionInstallVerification/None/OmniboxBundledExperimentV1/Preperiod_A2_StableBookmarksIndexURLs/PasswordGeneration/Disabled/Prerender/PrerenderEnabled/PrerenderLocalPredictorSpec/LocalPredictor=Disabled/QUIC/Disabled/RapporRollout/Enabled/SDCH/EnabledAll/SafeBrowsingIncidentReportingService/Default/SettingsEnforcement/no_enforcement/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Control/UMA-Population-Restrict/normal/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_18/UMA-Uniformity-Trial-1-Percent/group_62/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-100-Percent/group_01/UMA-Uniformity-Trial-20-Percent/group_01/UMA-Uniformity-Trial-5-Percent/group_02/UMA-Uniformity-Trial-50-Percent/group_01/VoiceTrigger/Install/ --extension-process --enable-webrtc-hw-h264-encoding --renderer-print-preview --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --enable-impl-side-painting --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel=3131.6.1755702412
+nen       3267  3153  0 10:09 ?        00:00:01 /opt/google/chrome/chrome --type=renderer --enable-deferred-image-decoding --lang=es --force-fieldtrials=AutoReloadExperiment/Enabled/AutoReloadVisibleOnlyExperiment/Enabled/DomRel-Enable/disable/ExtensionInstallVerification/None/OmniboxBundledExperimentV1/Preperiod_A2_StableBookmarksIndexURLs/PasswordGeneration/Disabled/Prerender/PrerenderEnabled/PrerenderLocalPredictorSpec/LocalPredictor=Disabled/QUIC/Disabled/RapporRollout/Enabled/SDCH/EnabledAll/SafeBrowsingIncidentReportingService/Default/SettingsEnforcement/no_enforcement/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Control/UMA-Population-Restrict/normal/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_18/UMA-Uniformity-Trial-1-Percent/group_62/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-100-Percent/group_01/UMA-Uniformity-Trial-20-Percent/group_01/UMA-Uniformity-Trial-5-Percent/group_02/UMA-Uniformity-Trial-50-Percent/group_01/VoiceTrigger/Install/ --extension-process --enable-webrtc-hw-h264-encoding --renderer-print-preview --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --enable-impl-side-painting --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel=3131.7.150382970
+nen       3270  3153  0 10:09 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --enable-deferred-image-decoding --lang=es --force-fieldtrials=AutoReloadExperiment/Enabled/AutoReloadVisibleOnlyExperiment/Enabled/DomRel-Enable/disable/ExtensionInstallVerification/None/OmniboxBundledExperimentV1/Preperiod_A2_StableBookmarksIndexURLs/PasswordGeneration/Disabled/Prerender/PrerenderEnabled/PrerenderLocalPredictorSpec/LocalPredictor=Disabled/QUIC/Disabled/RapporRollout/Enabled/SDCH/EnabledAll/SafeBrowsingIncidentReportingService/Default/SettingsEnforcement/no_enforcement/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Control/UMA-Population-Restrict/normal/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_18/UMA-Uniformity-Trial-1-Percent/group_62/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-100-Percent/group_01/UMA-Uniformity-Trial-20-Percent/group_01/UMA-Uniformity-Trial-5-Percent/group_02/UMA-Uniformity-Trial-50-Percent/group_01/VoiceTrigger/Install/ --extension-process --enable-webrtc-hw-h264-encoding --renderer-print-preview --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --enable-impl-side-painting --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel=3131.8.373237368
+nen       3275  3153  0 10:09 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --enable-deferred-image-decoding --lang=es --force-fieldtrials=AutoReloadExperiment/Enabled/AutoReloadVisibleOnlyExperiment/Enabled/DomRel-Enable/disable/ExtensionInstallVerification/None/OmniboxBundledExperimentV1/Preperiod_A2_StableBookmarksIndexURLs/PasswordGeneration/Disabled/Prerender/PrerenderEnabled/PrerenderLocalPredictorSpec/LocalPredictor=Disabled/QUIC/Disabled/RapporRollout/Enabled/SDCH/EnabledAll/SafeBrowsingIncidentReportingService/Default/SettingsEnforcement/no_enforcement/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Control/UMA-Population-Restrict/normal/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_18/UMA-Uniformity-Trial-1-Percent/group_62/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-100-Percent/group_01/UMA-Uniformity-Trial-20-Percent/group_01/UMA-Uniformity-Trial-5-Percent/group_02/UMA-Uniformity-Trial-50-Percent/group_01/VoiceTrigger/Install/ --extension-process --enable-webrtc-hw-h264-encoding --renderer-print-preview --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --enable-impl-side-painting --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel=3131.9.1850640416
+nen       3279  3153  0 10:09 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --enable-deferred-image-decoding --lang=es --force-fieldtrials=AutoReloadExperiment/Enabled/AutoReloadVisibleOnlyExperiment/Enabled/DomRel-Enable/disable/ExtensionInstallVerification/None/OmniboxBundledExperimentV1/Preperiod_A2_StableBookmarksIndexURLs/PasswordGeneration/Disabled/Prerender/PrerenderEnabled/PrerenderLocalPredictorSpec/LocalPredictor=Disabled/QUIC/Disabled/RapporRollout/Enabled/SDCH/EnabledAll/SafeBrowsingIncidentReportingService/Default/SettingsEnforcement/no_enforcement/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Control/UMA-Population-Restrict/normal/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_18/UMA-Uniformity-Trial-1-Percent/group_62/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-100-Percent/group_01/UMA-Uniformity-Trial-20-Percent/group_01/UMA-Uniformity-Trial-5-Percent/group_02/UMA-Uniformity-Trial-50-Percent/group_01/VoiceTrigger/Install/ --extension-process --enable-webrtc-hw-h264-encoding --renderer-print-preview --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --enable-impl-side-painting --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel=3131.10.2028707866
+nen       3282  3153  0 10:09 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --enable-deferred-image-decoding --lang=es --force-fieldtrials=AutoReloadExperiment/Enabled/AutoReloadVisibleOnlyExperiment/Enabled/DomRel-Enable/disable/ExtensionInstallVerification/None/OmniboxBundledExperimentV1/Preperiod_A2_StableBookmarksIndexURLs/PasswordGeneration/Disabled/Prerender/PrerenderEnabled/PrerenderLocalPredictorSpec/LocalPredictor=Disabled/QUIC/Disabled/RapporRollout/Enabled/SDCH/EnabledAll/SafeBrowsingIncidentReportingService/Default/SettingsEnforcement/no_enforcement/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Control/UMA-Population-Restrict/normal/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_18/UMA-Uniformity-Trial-1-Percent/group_62/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-100-Percent/group_01/UMA-Uniformity-Trial-20-Percent/group_01/UMA-Uniformity-Trial-5-Percent/group_02/UMA-Uniformity-Trial-50-Percent/group_01/VoiceTrigger/Install/ --extension-process --enable-webrtc-hw-h264-encoding --renderer-print-preview --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-delegated-renderer --enable-impl-side-painting --disable-accelerated-video-decode --disable-webrtc-hw-encoding --disable-gpu-compositing --channel=3131.11.1610581394
+nen       3477  1103  0 10:16 ?        00:00:00 /usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+nen       3494  1103  0 10:16 ?        00:00:00 /usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+nen       3495  1103  0 10:16 ?        00:00:00 /usr/bin/unity-scope-loader applications/applications.scope applications/scopes.scope commands.scope
+nen       3537  1103  0 10:16 ?        00:00:12 gedit
+root      4252     2  0 10:48 ?        00:00:00 [kworker/u5:2]
+root      4261     2  0 10:48 ?        00:00:00 [kworker/0:1]
+root      4268     2  0 10:49 ?        00:00:00 [kworker/u4:0]
+root      4408     2  0 11:01 ?        00:00:00 [kworker/u4:2]
+root      4412     2  0 11:02 ?        00:00:00 [kworker/0:0]
+root      4432     2  0 11:04 ?        00:00:00 [kworker/1:2]
+nen       4554  1704  6 11:11 ?        00:00:11 grive -l /home/nen/.grive-last-sync.log
+root      4558     1  0 11:11 ?        00:00:00 /lib/systemd/systemd-hostnamed
+root      4567     2  0 11:11 ?        00:00:00 [kworker/u5:1]
+root      4596     2  0 11:12 ?        00:00:00 [kworker/u4:1]
+nen       4633  1704  0 11:14 ?        00:00:00 [sh] <defunct>
+daemon    4635  1042  0 11:14 ?        00:00:00 atd
+root      4636  4635  0 11:14 ?        00:00:00 sh
+root      4637  4636  0 11:14 ?        00:00:00 /bin/bash ./procesoejerc4.4.sh
+root      4639  4637  0 11:14 ?        00:00:00 ps -ef
+Mi pid = 4637

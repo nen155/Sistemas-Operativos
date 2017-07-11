@@ -1,0 +1,1731 @@
+/home:
+total 20
+drwx------  2 root root 16384 oct  8 00:52 lost+found
+drwxr-xr-x 21 nen  nen   4096 oct 30 09:23 nen
+
+/home/lost+found:
+total 0
+
+/home/nen:
+total 2144
+-rw-r----- 1 nen nen 1437422 oct 27 21:03 ddd_3.3.12-3_amd64.deb
+drwxr-xr-x 2 nen nen    4096 oct 29 10:39 Descargas
+drwxr-xr-x 2 nen nen    4096 oct 27 11:24 Documentos
+drwxr-xr-x 2 nen nen    4096 oct 27 21:26 Escritorio
+-rw-r--r-- 1 nen nen    8980 oct  8 00:57 examples.desktop
+drwxrwxr-x 9 nen nen    4096 oct  8 20:35 Google Drive
+drwxr-xr-x 2 nen nen    4096 oct  8 01:04 Imágenes
+-rw-r----- 1 nen nen  699522 oct 27 21:03 lesstif2_0.95.2-1_amd64.deb
+drwxr-xr-x 2 nen nen    4096 oct  8 01:04 Música
+drwxr-xr-x 2 nen nen    4096 oct  8 01:04 Plantillas
+drwxr-xr-x 2 nen nen    4096 oct  8 01:04 Público
+drwxr-xr-x 2 nen nen    4096 oct  8 01:04 Vídeos
+
+/home/nen/Descargas:
+total 136
+-rw-r----- 1 nen nen  14835 oct 15 10:39 eduroam-linux-UdG.sh
+-rw-rw-r-- 1 nen nen 112392 oct  8 01:19 grive-tools_1.11_all.deb
+-rw-rw-r-- 1 nen nen    430 oct 15 11:27 rectaregresionfrecuenciasV1
+
+/home/nen/Documentos:
+total 160
+-rw-r----- 1 nen nen 156191 oct 27 11:00 refman.pdf
+
+/home/nen/Escritorio:
+total 0
+lrwxrwxrwx 1 nen nen 28 oct  8 08:28 Enlace hacia Grado -> /home/nen/Google Drive/Grado
+
+/home/nen/Google Drive:
+total 745596
+-rw------- 1 nen nen   119006 sep 24  2013 Acceso identificado de la Universidad de Granada.pdf
+drwxrwxr-x 2 nen nen     4096 oct  8 01:26 backup
+drwxrwxr-x 2 nen nen     4096 oct  8 01:37 Backup MCimagen 4-12-2013
+-rw------- 1 nen nen 19703617 oct  3 13:05 backup.zip
+-rw------- 1 nen nen   898601 dic 18  2012 canvas.zip
+-rw------- 1 nen nen  3628420 dic 18  2012 cartapassettodiroma.pdf
+-rw------- 1 nen nen        8 dic 18  2012 clave SEO PRESSOR PACO K3KVRXEX.txt
+-rw------- 1 nen nen   427418 dic 12  2011 Condicionesforfaitjoven2011-12.pdf
+-rw------- 1 nen nen   709620 dic 18  2012 CursoAJAX.pdf
+-rw------- 1 nen nen  1821289 abr 20  2011 Curso de Hacking Avanzado.pdf
+-rw------- 1 nen nen 10651136 dic 18  2012 Curso Wordpress SIN HOSTGATOR.doc
+-rw------- 1 nen nen  4942892 dic 18  2012 Curso Wordpress SIN HOSTGATOR.pdf
+-rw------- 1 nen nen  1781387 dic 18  2012 cushy.zip
+-rw------- 1 nen nen  1099927 dic 18  2012 digitalfarm.zip
+-rw------- 1 nen nen  4235094 dic 18  2012 diner-psd.zip
+-rw------- 1 nen nen  1977978 dic 18  2012 diner.zip
+-rw------- 1 nen nen 29657141 feb  6  2013 EZ Price Tables modificado.zip
+-rw------- 1 nen nen 27392446 dic 18  2012 EZ Price Tables.rar
+-rw------- 1 nen nen  9314816 dic 18  2012 Formacion en la creacion de una pagina en facebook para la empresa.doc
+-rw------- 1 nen nen  3238993 dic 18  2012 Formacion en la creacion de una pagina en facebook para la empresa.pdf
+-rw------- 1 nen nen 10861568 dic 18  2012 Formacion en la creacion de un blog de empresa con wordpress - MANUAL COMPLETO.doc
+-rw------- 1 nen nen  5119480 dic 18  2012 Formacion en la creacion de un blog de empresa con wordpress - MANUAL COMPLETO.pdf
+-rw------- 1 nen nen 12585984 dic 18  2012 Formacion en la Creacion de un canal de Youtube.doc
+-rw------- 1 nen nen  2387064 dic 18  2012 Formacion en la Creacion de un canal de Youtube.pdf
+drwxrwxr-x 2 nen nen     4096 oct  8 01:37 Fotos Rocodromo
+drwxrwxr-x 3 nen nen     4096 oct 30 10:17 Grado
+-rw------- 1 nen nen       99 nov 14  2013 HORAS CON XAVERIO.txt
+-rw------- 1 nen nen 31744963 may 23 01:06 IMG_2712.jpg
+-rw------- 1 nen nen 30788277 may 23 01:06 IMG_2724.jpg
+-rw------- 1 nen nen 22877027 may 23 01:06 IMGe_2720.jpg
+-rw------- 1 nen nen 15778278 may 23 01:06 IMG_w2711.jpg
+-rw------- 1 nen nen  3769167 ago  7  2011 Liberty Living.15.03.pdf
+-rw------- 1 nen nen   182240 mar 21  2012 lineas_completo.pdf
+-rw------- 1 nen nen   987698 oct  3  2011 MagicCompRules_20110930.pdf
+-rw------- 1 nen nen 33891251 dic 18  2012 manual_joomla_avanzado_mas_tienda_online.pdf
+-rw------- 1 nen nen 25587093 dic 18  2012 MANUAL_Joomla_con_Tienda_Virtuemart_ProfeenlaEmpresa.pdf
+-rw------- 1 nen nen 15615148 dic 18  2012 manual_joomla_inicial.pdf
+-rw------- 1 nen nen 12354060 dic 18  2012 MANUAL_Joomla_ProfeenlaEmpresa.pdf
+-rw------- 1 nen nen 21734135 dic 18  2012 modulo1FACE.mp4
+-rw------- 1 nen nen  8465373 dic 18  2012 modulo1You.mp4
+-rw------- 1 nen nen   597465 dic 18  2012 modulo1 Youtube.pptx
+-rw------- 1 nen nen 25864616 dic 18  2012 modulo2FACE.mp4
+-rw------- 1 nen nen 61101014 dic 18  2012 modulo2 WP.mp4
+-rw------- 1 nen nen 20029362 dic 18  2012 modulo2You.mp4
+-rw------- 1 nen nen 51483600 dic 18  2012 modulo3 WP.mp4
+-rw------- 1 nen nen  4887915 dic 18  2012 modulo3You.mp4
+-rw------- 1 nen nen   748680 dic 18  2012 Modulo3 Youtube.pptx
+-rw------- 1 nen nen 15888890 dic 18  2012 Modulo4FACE.mp4
+-rw------- 1 nen nen 47345534 dic 18  2012 modulo4You.mp4
+-rw------- 1 nen nen   638765 dic 18  2012 modulo4 Youtube.pptx
+-rw------- 1 nen nen 14854873 dic 18  2012 modulo5You.mp4
+-rw------- 1 nen nen  1010176 dic 18  2012 MODULO I - FINAL.ppt
+-rw------- 1 nen nen  1847808 dic 18  2012 MODULO II - FINAL.ppt
+-rw------- 1 nen nen   853504 dic 18  2012 MODULO III - FINAL.ppt
+-rw------- 1 nen nen  1101824 dic 18  2012 MODULO III - INICIO.ppt
+-rw------- 1 nen nen  1807872 dic 18  2012 MODULO II - INICIO.ppt
+-rw------- 1 nen nen   995328 dic 18  2012 MODULO I - INICIO.ppt
+-rw------- 1 nen nen  1456128 dic 18  2012 MODULO IV - FINAL.ppt
+-rw------- 1 nen nen  1419776 dic 18  2012 MODULO IV - INICIO.ppt
+-rw------- 1 nen nen  9362176 dic 18  2012 proyecto1wp.mp4
+-rw------- 1 nen nen 63471478 dic 18  2012 proyecto4.mp4
+-rw------- 1 nen nen  1024567 sep 11  2011 reglas_avanzadas_magic.pdf
+-rw------- 1 nen nen  1400235 dic 18  2012 sealight.zip
+-rw------- 1 nen nen   117811 dic 18  2012 seo-pressor.zip
+-rw------- 1 nen nen  1657173 nov  9  2012 socrates-3.04.zip
+drwxrwxr-x 3 nen nen     4096 oct  8 01:37 SUPERDESPEDIDAS
+-rw------- 1 nen nen   714545 nov  9  2012 teamster.zip
+-rw------- 1 nen nen  6716534 ene 14  2013 themeforest-2855595-expression-photography-responsive-wordpress-theme.zip
+drwxrwxr-x 2 nen nen     4096 oct  8 01:39 Tutoriales para crear themes de wordpress
+-rw------- 1 nen nen      314 mar 12  2014 User y pass.txt
+-rw------- 1 nen nen    91618 ene 31  2012 UtilizandoBasicMaps.pdf
+-rw------- 1 nen nen 12201106 ago 11  2013 Wireless LAN_Atheros_9.2.0.439_W7x86W7x64_A.zip
+-rw------- 1 nen nen 35203896 ago 11  2013 Wireless LAN_Broadcom_5.100.82.95_W7x86W7x64_A.zip
+-rw------- 1 nen nen    30062 dic 18  2012 wp-google-maps-developer-unzip-first.zip
+-rw------- 1 nen nen  1080869 nov 12  2012 WPRestaurantPro.zip
+
+/home/nen/Google Drive/backup:
+total 168
+-rw------- 1 nen nen   971 jul  2  2013 404.php
+-rw------- 1 nen nen   412 jul  2  2013 index.php
+-rw------- 1 nen nen 18257 jul  2  2013 licencia.txt
+-rw------- 1 nen nen 16899 jul  2  2013 license.txt
+-rw------- 1 nen nen  9844 jul  2  2013 readme.html
+-rw------- 1 nen nen  4782 jul  2  2013 wp-activate.php
+-rw------- 1 nen nen   289 jul  2  2013 wp-blog-header.php
+-rw------- 1 nen nen  3621 jul  2  2013 wp-comments-post.php
+-rw------- 1 nen nen  3704 jul  2  2013 wp-config.php
+-rw------- 1 nen nen  2822 jul  2  2013 wp-cron.php
+-rw------- 1 nen nen  2055 jul  2  2013 wp-links-opml.php
+-rw------- 1 nen nen  2471 jul  2  2013 wp-load.php
+-rw------- 1 nen nen 30056 jul  2  2013 wp-login.php
+-rw------- 1 nen nen  7953 jul  2  2013 wp-mail.php
+-rw------- 1 nen nen 10226 jul  2  2013 wp-settings.php
+-rw------- 1 nen nen 18661 jul  2  2013 wp-signup.php
+-rw------- 1 nen nen  3810 jul  2  2013 wp-trackback.php
+
+/home/nen/Google Drive/Backup MCimagen 4-12-2013:
+total 0
+
+/home/nen/Google Drive/Fotos Rocodromo:
+total 951712
+-rw------- 1 nen nen  9243507 jul  1 23:01 DSC04010.JPG
+-rw------- 1 nen nen  9189282 jul  1 23:03 DSC04011.JPG
+-rw------- 1 nen nen  9610059 jul  1 23:05 DSC04012.JPG
+-rw------- 1 nen nen  9810110 jul  1 23:07 DSC04013.JPG
+-rw------- 1 nen nen  9490726 jul  1 23:20 DSC04014.JPG
+-rw------- 1 nen nen  9451737 jul  1 23:35 DSC04015.JPG
+-rw------- 1 nen nen  9743779 jul  1 23:47 DSC04016.JPG
+-rw------- 1 nen nen  9402894 jul  1 23:31 DSC04017.JPG
+-rw------- 1 nen nen  9443311 jul  1 23:08 DSC04018.JPG
+-rw------- 1 nen nen  9344491 jul  1 23:10 DSC04019.JPG
+-rw------- 1 nen nen  9304282 jul  1 23:21 DSC04020.JPG
+-rw------- 1 nen nen  9129872 jul  1 23:12 DSC04021.JPG
+-rw------- 1 nen nen  9475367 jul  1 23:23 DSC04022.JPG
+-rw------- 1 nen nen  9150025 jul  1 23:13 DSC04023.JPG
+-rw------- 1 nen nen  8513507 jul  1 23:15 DSC04024.JPG
+-rw------- 1 nen nen  8526397 jul  1 23:29 DSC04025.JPG
+-rw------- 1 nen nen  8116650 jul  1 23:16 DSC04026.JPG
+-rw------- 1 nen nen  8120103 jul  1 23:26 DSC04027.JPG
+-rw------- 1 nen nen  8339925 jul  1 23:28 DSC04028.JPG
+-rw------- 1 nen nen  8153243 jul  1 23:18 DSC04029.JPG
+-rw------- 1 nen nen  8039696 jul  1 23:25 DSC04030.JPG
+-rw------- 1 nen nen  8113020 jul  1 23:57 DSC04031.JPG
+-rw------- 1 nen nen  7967757 jul  1 23:56 DSC04032.JPG
+-rw------- 1 nen nen  7801975 jul  1 23:38 DSC04033.JPG
+-rw------- 1 nen nen  7840493 jul  1 23:39 DSC04034.JPG
+-rw------- 1 nen nen  8121031 jul  1 23:42 DSC04035.JPG
+-rw------- 1 nen nen  8187971 jul  1 23:48 DSC04036.JPG
+-rw------- 1 nen nen  8051435 jul  1 23:45 DSC04037.JPG
+-rw------- 1 nen nen  8335438 jul  1 23:37 DSC04039.JPG
+-rw------- 1 nen nen  9361880 jul  2 00:00 DSC04042.JPG
+-rw------- 1 nen nen  8820447 jul  1 23:59 DSC04043.JPG
+-rw------- 1 nen nen  7980645 jul  1 23:32 DSC04045.JPG
+-rw------- 1 nen nen  7982332 jul  1 23:34 DSC04046.JPG
+-rw------- 1 nen nen  7937730 jul  1 23:44 DSC04047.JPG
+-rw------- 1 nen nen  9130023 jul  1 23:41 DSC04054.JPG
+-rw------- 1 nen nen 11033087 jul  1 23:53 DSC04056.JPG
+-rw------- 1 nen nen 10904010 jul  1 23:54 DSC04057.JPG
+-rw------- 1 nen nen  6639065 jul  1 23:49 DSC04063.JPG
+-rw------- 1 nen nen  8826176 jul  1 23:51 DSC04064.JPG
+-rw------- 1 nen nen  8981562 jul  2 00:02 DSC04069.JPG
+-rw------- 1 nen nen  9352994 jul  2 12:38 DSC04070.JPG
+-rw------- 1 nen nen  8921937 jul  2 12:40 DSC04071.JPG
+-rw------- 1 nen nen  9412310 jul  2 12:42 DSC04072.JPG
+-rw------- 1 nen nen  8732901 jul  2 12:43 DSC04073.JPG
+-rw------- 1 nen nen  8698593 jul  2 12:45 DSC04074.JPG
+-rw------- 1 nen nen  8823620 jul  2 12:46 DSC04075.JPG
+-rw------- 1 nen nen  9262113 jul  2 12:48 DSC04076.JPG
+-rw------- 1 nen nen  8718707 jul  2 12:50 DSC04077.JPG
+-rw------- 1 nen nen  9406011 jul  2 12:51 DSC04078.JPG
+-rw------- 1 nen nen  9744447 jul  2 12:53 DSC04079.JPG
+-rw------- 1 nen nen  9513825 jul  2 12:55 DSC04080.JPG
+-rw------- 1 nen nen  9422075 jul  2 12:56 DSC04081.JPG
+-rw------- 1 nen nen  9358530 jul  2 12:58 DSC04082.JPG
+-rw------- 1 nen nen  9367606 jul  2 13:00 DSC04083.JPG
+-rw------- 1 nen nen  9281669 jul  2 13:03 DSC04084.JPG
+-rw------- 1 nen nen  9006026 jul  2 13:01 DSC04085.JPG
+-rw------- 1 nen nen  9250466 jul  2 13:04 DSC04086.JPG
+-rw------- 1 nen nen  9186510 jul  2 13:06 DSC04087.JPG
+-rw------- 1 nen nen  9260866 jul  2 13:08 DSC04088.JPG
+-rw------- 1 nen nen  9220428 jul  2 13:09 DSC04089.JPG
+-rw------- 1 nen nen  9155547 jul  2 13:11 DSC04090.JPG
+-rw------- 1 nen nen  8867794 jul  2 13:12 DSC04091.JPG
+-rw------- 1 nen nen  9683725 jul  2 13:14 DSC04092.JPG
+-rw------- 1 nen nen  9461708 jul  2 13:16 DSC04093.JPG
+-rw------- 1 nen nen  9269255 jul  2 13:17 DSC04094.JPG
+-rw------- 1 nen nen  9086978 jul  2 13:19 DSC04095.JPG
+-rw------- 1 nen nen  9076699 jul  2 13:21 DSC04096.JPG
+-rw------- 1 nen nen  9122927 jul  2 13:22 DSC04097.JPG
+-rw------- 1 nen nen  9262653 jul  2 13:24 DSC04098.JPG
+-rw------- 1 nen nen  9464326 jul  2 13:26 DSC04099.JPG
+-rw------- 1 nen nen  9471415 jul  2 13:28 DSC04100.JPG
+-rw------- 1 nen nen  9157687 jul  2 13:29 DSC04101.JPG
+-rw------- 1 nen nen  9059551 jul  2 13:31 DSC04102.JPG
+-rw------- 1 nen nen  9356451 jul  2 13:32 DSC04103.JPG
+-rw------- 1 nen nen  8528419 jul  2 13:34 DSC04104.JPG
+-rw------- 1 nen nen  9740784 jul  2 13:36 DSC04105.JPG
+-rw------- 1 nen nen  9077670 jul  2 13:37 DSC04106.JPG
+-rw------- 1 nen nen  9169017 jul  2 13:39 DSC04107.JPG
+-rw------- 1 nen nen  9234286 jul  2 13:41 DSC04108.JPG
+-rw------- 1 nen nen  9302620 jul  2 13:43 DSC04109.JPG
+-rw------- 1 nen nen  9404366 jul  2 13:44 DSC04110.JPG
+-rw------- 1 nen nen  9387855 jul  2 13:46 DSC04111.JPG
+-rw------- 1 nen nen  9311746 jul  2 13:48 DSC04112.JPG
+-rw------- 1 nen nen  9302685 jul  2 13:49 DSC04113.JPG
+-rw------- 1 nen nen  8961620 jul  2 13:51 DSC04114.JPG
+-rw------- 1 nen nen  9139144 jul  2 13:52 DSC04115.JPG
+-rw------- 1 nen nen  8663606 jul  2 13:54 DSC04116.JPG
+-rw------- 1 nen nen  8492254 jul  2 13:55 DSC04117.JPG
+-rw------- 1 nen nen  9339854 jul  2 13:57 DSC04118.JPG
+-rw------- 1 nen nen  9238376 jul  2 13:59 DSC04119.JPG
+-rw------- 1 nen nen  9367342 jul  2 14:00 DSC04120.JPG
+-rw------- 1 nen nen  9607418 jul  2 14:02 DSC04121.JPG
+-rw------- 1 nen nen  9579573 jul  2 14:03 DSC04122.JPG
+-rw------- 1 nen nen  9262225 jul  2 14:05 DSC04123.JPG
+-rw------- 1 nen nen  8849961 jul  2 14:07 DSC04124.JPG
+-rw------- 1 nen nen  8883443 jul  2 14:08 DSC04125.JPG
+-rw------- 1 nen nen  9168131 jul  2 14:10 DSC04126.JPG
+-rw------- 1 nen nen  8797707 jul  2 12:21 DSC04127.JPG
+-rw------- 1 nen nen  8918114 jul  2 12:22 DSC04128.JPG
+-rw------- 1 nen nen  8949396 jul  2 12:24 DSC04129.JPG
+-rw------- 1 nen nen  8902750 jul  2 12:25 DSC04130.JPG
+-rw------- 1 nen nen  8840953 jul  2 12:27 DSC04131.JPG
+-rw------- 1 nen nen  8898913 jul  2 12:29 DSC04132.JPG
+-rw------- 1 nen nen  8757863 jul  2 12:30 DSC04133.JPG
+-rw------- 1 nen nen  8697474 jul  2 12:32 DSC04134.JPG
+-rw------- 1 nen nen  9326829 jul  2 12:33 DSC04135.JPG
+-rw------- 1 nen nen  8708293 jul  2 12:35 DSC04136.JPG
+-rw------- 1 nen nen  9461074 jul  2 12:37 DSC04137.JPG
+
+/home/nen/Google Drive/Grado:
+total 204
+drwxrwxr-x 7 nen nen   4096 oct 27 20:24 1Cuatrimestre
+-rw------- 1 nen nen  40907 sep 15 12:15 Horarios 2014-2015.pdf
+-rw-rw-r-- 1 nen nen 160785 oct 27 11:15 Megapost---Aprende-Ensamblador.html
+
+/home/nen/Google Drive/Grado/1Cuatrimestre:
+total 20
+drwxrwxr-x 7 nen nen 4096 oct 27 11:21 EC
+drwxrwxr-x 5 nen nen 4096 oct 24 22:31 ED
+drwxrwxr-x 7 nen nen 4096 oct 27 11:21 PDOO
+drwxrwxr-x 4 nen nen 4096 oct  7 18:30 SCD
+drwxrwxr-x 5 nen nen 4096 oct 29 09:48 Sistemas Operativos
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC:
+total 92676
+drwxrwxr-x  2 nen nen     4096 oct 27 11:21 1 Presentacion
+drwxrwxr-x 14 nen nen     4096 oct 27 11:22 Curso Ensamblador
+drwxrwxr-x  3 nen nen     4096 oct 27 11:22 Libros
+drwxrwxr-x  7 nen nen     4096 oct 27 11:22 Practicas
+-rw-rw-r--  1 nen nen 52037497 oct 18 13:40 See How the CPU Works In One Lesson.mp4
+-rw-rw-r--  1 nen nen 41682944 oct 18 13:35 See How the CPU Works In One Lesson.mpeg
+-rw-rw-r--  1 nen nen  1153024 oct 22 21:59 Tema_3.ppt
+drwxrwxr-x  4 nen nen     4096 oct 27 11:21 Teoria
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/1 Presentacion:
+total 676
+-rw-rw-r-- 1 nen nen 692164 oct 14 10:04 Presentacion.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Curso Ensamblador:
+total 616
+-rw-rw-r-- 1 nen nen 114464 sep 26 01:01 antiguo.zip
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 APRENDA ENSAMBLADOR 80x86 EN DOS PATADAS_files
+-rw-rw-r-- 1 nen nen   5451 sep 26 00:57 APRENDA ENSAMBLADOR 80x86 EN DOS PATADAS.htm
+-rw-rw-r-- 1 nen nen 177072 nov  2  2003 asm.html
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 CURSO DE ENSAMBLADOR  DIRECTIVAS EN NASM_files
+-rw-rw-r-- 1 nen nen  12033 sep 26 00:59 CURSO DE ENSAMBLADOR  DIRECTIVAS EN NASM.htm
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 CURSO DE ENSAMBLADOR  ENLACES RECOMENDADOS_files
+-rw-rw-r-- 1 nen nen   4698 sep 26 01:00 CURSO DE ENSAMBLADOR  ENLACES RECOMENDADOS.htm
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 CURSO DE ENSAMBLADOR  INSTRUCCIONES MMX_files
+-rw-rw-r-- 1 nen nen  17428 sep 26 01:00 CURSO DE ENSAMBLADOR  INSTRUCCIONES MMX.htm
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 CURSO DE ENSAMBLADOR  INTERRUPCIONES_files
+-rw-rw-r-- 1 nen nen  13282 sep 26 00:59 CURSO DE ENSAMBLADOR  INTERRUPCIONES.htm
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 CURSO DE ENSAMBLADOR  INTRODUCCIÓN_files
+-rw-rw-r-- 1 nen nen  10706 sep 26 00:58 CURSO DE ENSAMBLADOR  INTRODUCCIÓN.htm
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 CURSO DE ENSAMBLADOR  JUEGO DE INSTRUCCIONES DEL 8086_files
+-rw-rw-r-- 1 nen nen  56270 sep 26 00:59 CURSO DE ENSAMBLADOR  JUEGO DE INSTRUCCIONES DEL 8086.htm
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 CURSO DE ENSAMBLADOR  LA FAMILIA 80x86_files
+-rw-rw-r-- 1 nen nen   8141 sep 26 00:58 CURSO DE ENSAMBLADOR  LA FAMILIA 80x86.htm
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 CURSO DE ENSAMBLADOR  LOS REGISTROS Y LA SEGMENTACIÓN EN MODO REAL_files
+-rw-rw-r-- 1 nen nen  22697 sep 26 00:58 CURSO DE ENSAMBLADOR  LOS REGISTROS Y LA SEGMENTACIÓN EN MODO REAL.htm
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 CURSO DE ENSAMBLADOR  MODELO DE MEMORIA EN MODO REAL_files
+-rw-rw-r-- 1 nen nen   7725 sep 26 01:00 CURSO DE ENSAMBLADOR  MODELO DE MEMORIA EN MODO REAL.htm
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 CURSO DE ENSAMBLADOR  MODOS DE DIRECCIONAMIENTO_files
+-rw-rw-r-- 1 nen nen  13953 sep 26 00:59 CURSO DE ENSAMBLADOR  MODOS DE DIRECCIONAMIENTO.htm
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 CURSO DE ENSAMBLADOR  TIPOS DE EJECUTABLES_files
+-rw-rw-r-- 1 nen nen  15147 sep 26 00:59 CURSO DE ENSAMBLADOR  TIPOS DE EJECUTABLES.htm
+-rw-rw-r-- 1 nen nen   1080 nov  2  2003 indi_pal2.jpg
+-rw-rw-r-- 1 nen nen   1056 nov  2  2003 indi_pal3.jpg
+-rw-rw-r-- 1 nen nen    988 nov  2  2003 indi_pal4.jpg
+-rw-rw-r-- 1 nen nen  24843 nov  2  2003 indy2.jpg
+-rw-rw-r-- 1 nen nen   1105 nov  2  2003 indy.jpg
+-rw-rw-r-- 1 nen nen   1306 nov  2  2003 indy_neg.jpg
+-rw-rw-r-- 1 nen nen  26356 nov  2  2003 ROTACIONES.jpg
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Curso Ensamblador/APRENDA ENSAMBLADOR 80x86 EN DOS PATADAS_files:
+total 748
+-rw-rw-r-- 1 nen nen     27 sep 26 00:57 704380429.js
+-rw-rw-r-- 1 nen nen    106 sep 26 00:57 contador_visitas.GIF
+-rw-rw-r-- 1 nen nen   7125 sep 26 00:57 javascript.js
+-rw-rw-r-- 1 nen nen 738045 sep 26 00:57 opt_content.js
+-rw-rw-r-- 1 nen nen   6456 sep 26 00:57 vim.gif
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Curso Ensamblador/CURSO DE ENSAMBLADOR  DIRECTIVAS EN NASM_files:
+total 736
+-rw-rw-r-- 1 nen nen     27 sep 26 00:59 704380429.js
+-rw-rw-r-- 1 nen nen   7125 sep 26 00:59 javascript.js
+-rw-rw-r-- 1 nen nen 738045 sep 26 00:59 opt_content.js
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Curso Ensamblador/CURSO DE ENSAMBLADOR  ENLACES RECOMENDADOS_files:
+total 740
+-rw-rw-r-- 1 nen nen     27 sep 26 01:00 704380429.js
+-rw-rw-r-- 1 nen nen    633 sep 26 01:00 event-report.htm
+-rw-rw-r-- 1 nen nen   7125 sep 26 01:00 javascript.js
+-rw-rw-r-- 1 nen nen 738045 sep 26 01:00 opt_content.js
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Curso Ensamblador/CURSO DE ENSAMBLADOR  INSTRUCCIONES MMX_files:
+total 784
+-rw-rw-r-- 1 nen nen     27 sep 26 01:00 704380429.js
+-rw-rw-r-- 1 nen nen   1080 sep 26 01:00 indi_pal2.jpg
+-rw-rw-r-- 1 nen nen   1056 sep 26 01:00 indi_pal3.jpg
+-rw-rw-r-- 1 nen nen    988 sep 26 01:00 indi_pal4.jpg
+-rw-rw-r-- 1 nen nen  24843 sep 26 01:00 indy2.jpg
+-rw-rw-r-- 1 nen nen   1105 sep 26 01:00 indy.jpg
+-rw-rw-r-- 1 nen nen   1306 sep 26 01:00 indy_neg.jpg
+-rw-rw-r-- 1 nen nen   7125 sep 26 01:00 javascript.js
+-rw-rw-r-- 1 nen nen 738045 sep 26 01:00 opt_content.js
+-rw-rw-r-- 1 nen nen      0 sep 26 01:00 shoppingjs4
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Curso Ensamblador/CURSO DE ENSAMBLADOR  INTERRUPCIONES_files:
+total 736
+-rw-rw-r-- 1 nen nen     27 sep 26 00:59 704380429.js
+-rw-rw-r-- 1 nen nen   7125 sep 26 00:59 javascript.js
+-rw-rw-r-- 1 nen nen 738045 sep 26 00:59 opt_content.js
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Curso Ensamblador/CURSO DE ENSAMBLADOR  INTRODUCCIÓN_files:
+total 736
+-rw-rw-r-- 1 nen nen     27 sep 26 00:58 704380429.js
+-rw-rw-r-- 1 nen nen   7125 sep 26 00:58 javascript.js
+-rw-rw-r-- 1 nen nen 738045 sep 26 00:58 opt_content.js
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Curso Ensamblador/CURSO DE ENSAMBLADOR  JUEGO DE INSTRUCCIONES DEL 8086_files:
+total 764
+-rw-rw-r-- 1 nen nen     27 sep 26 00:59 704380429.js
+-rw-rw-r-- 1 nen nen   7125 sep 26 00:59 javascript.js
+-rw-rw-r-- 1 nen nen 738045 sep 26 00:59 opt_content.js
+-rw-rw-r-- 1 nen nen  26356 sep 26 00:59 ROTACIONES.jpg
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Curso Ensamblador/CURSO DE ENSAMBLADOR  LA FAMILIA 80x86_files:
+total 736
+-rw-rw-r-- 1 nen nen     27 sep 26 00:58 704380429.js
+-rw-rw-r-- 1 nen nen   7125 sep 26 00:58 javascript.js
+-rw-rw-r-- 1 nen nen 738045 sep 26 00:58 opt_content.js
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Curso Ensamblador/CURSO DE ENSAMBLADOR  LOS REGISTROS Y LA SEGMENTACIÓN EN MODO REAL_files:
+total 736
+-rw-rw-r-- 1 nen nen     27 sep 26 00:58 704380429.js
+-rw-rw-r-- 1 nen nen   7125 sep 26 00:58 javascript.js
+-rw-rw-r-- 1 nen nen 738045 sep 26 00:58 opt_content.js
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Curso Ensamblador/CURSO DE ENSAMBLADOR  MODELO DE MEMORIA EN MODO REAL_files:
+total 736
+-rw-rw-r-- 1 nen nen     27 sep 26 01:00 704380429.js
+-rw-rw-r-- 1 nen nen   7125 sep 26 01:00 javascript.js
+-rw-rw-r-- 1 nen nen 738045 sep 26 01:00 opt_content.js
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Curso Ensamblador/CURSO DE ENSAMBLADOR  MODOS DE DIRECCIONAMIENTO_files:
+total 736
+-rw-rw-r-- 1 nen nen     27 sep 26 00:59 704380429.js
+-rw-rw-r-- 1 nen nen   7125 sep 26 00:59 javascript.js
+-rw-rw-r-- 1 nen nen 738045 sep 26 00:59 opt_content.js
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Curso Ensamblador/CURSO DE ENSAMBLADOR  TIPOS DE EJECUTABLES_files:
+total 736
+-rw-rw-r-- 1 nen nen     27 sep 26 00:59 704380429.js
+-rw-rw-r-- 1 nen nen   7125 sep 26 00:59 javascript.js
+-rw-rw-r-- 1 nen nen 738045 sep 26 00:59 opt_content.js
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Libros:
+total 43932
+-rw-rw-r-- 1 nen nen   431575 nov 14  2011 01.-TEMA_1_TOC_INTRODUCCION.pdf
+-rw-rw-r-- 1 nen nen  1303481 nov 14  2011 02.-TEMA_2_TOC_UNIDADES_FUNCIONALES.pdf
+-rw-rw-r-- 1 nen nen  1002141 nov 14  2011 03.-TEMA_3_TOC_REPRESENTACION_INFORMACION.pdf
+-rw-rw-r-- 1 nen nen   596384 sep 26 01:16 (1) [Megapost] - Aprende Ensamblador - Taringa!.pdf
+-rw-rw-r-- 1 nen nen   443537 oct  1 19:07 ch1-preview.pdf
+-rw-rw-r-- 1 nen nen   203158 oct  1 19:07 ch3-preview.pdf
+-rw-rw-r-- 1 nen nen  5123331 oct  2 20:51 ComputerSystemBook.pdf
+-rw-rw-r-- 1 nen nen  7079105 oct  2 20:53 CSAPP.pdf
+-rw-rw-r-- 1 nen nen   511641 oct 13 19:33 Direccionamiento.pdf
+-rw-rw-r-- 1 nen nen  9786289 sep 29  2011 First Draft of a Report on the EDVAC.pdf
+-rw-rw-r-- 1 nen nen   350427 sep 28  2011 Fleming_Wallace_86.pdf
+-rw-rw-r-- 1 nen nen 17334432 oct  1 19:28 Hamacher.pdf
+-rw-rw-r-- 1 nen nen   174711 sep 29  2011 Las mujeres del ENIAC.pdf
+drwxrwxr-x 2 nen nen     4096 oct 27 11:22 Libro de Sistemas Operativos
+-rw-rw-r-- 1 nen nen   158300 sep 29  2011 On Holy Wars and a Plea for Peace.pdf
+-rw-rw-r-- 1 nen nen   133170 sep 29  2011 Origen de little-endian y big-endian.pdf
+-rw-rw-r-- 1 nen nen   315919 sep 26 01:18 Sebastián Guerrero_ Principios en ensamblador.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Libros/Libro de Sistemas Operativos:
+total 7856
+-rw-rw-r-- 1 nen nen 1585855 feb 13  2006 1.1- Intro.pdf
+-rw-rw-r-- 1 nen nen  118963 feb 13  2006 1.2- IntroMinix.pdf
+-rw-rw-r-- 1 nen nen 1052640 feb 13  2006 2- Procesos y Threads.pdf
+-rw-rw-r-- 1 nen nen 1503523 feb 13  2006 3- Gestión de Memoria.pdf
+-rw-rw-r-- 1 nen nen 1812972 feb 13  2006 4- Sistemas de Ficheros.pdf
+-rw-rw-r-- 1 nen nen 1954128 feb 13  2006 5- Entrada Salida.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas:
+total 20
+drwxrwxr-x 4 nen nen 4096 oct 27 11:22 1 Practica 1
+drwxrwxr-x 4 nen nen 4096 oct 27 11:22 Practica 1
+drwxrwxr-x 4 nen nen 4096 oct 27 11:22 Practica 2
+drwxrwxr-x 4 nen nen 4096 oct 27 11:22 Practica 3
+drwxrwxr-x 2 nen nen 4096 oct 27 11:22 Practica 4
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/1 Practica 1:
+total 8
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 1 Guion
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 2 Ficheros fuente
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/1 Practica 1/1 Guion:
+total 568
+drwxrwxr-x 2 nen nen   4096 oct 27 11:23 2 Ficheros
+-rw-rw-r-- 1 nen nen 569565 oct 14 10:05 practica-01.pdf
+-rw-rw-r-- 1 nen nen    364 oct 14 10:04 Practica 1.htm
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/1 Practica 1/1 Guion/2 Ficheros:
+total 44
+-rw-rw-r-- 1 nen nen   92 oct 14 10:05 hola2.cc
+-rw-rw-r-- 1 nen nen  726 oct 14 10:05 hola32.s
+-rw-rw-r-- 1 nen nen  911 oct 14 10:05 hola64.s
+-rw-rw-r-- 1 nen nen  486 oct 14 10:05 hola.s
+-rw-rw-r-- 1 nen nen  696 oct 14 10:05 Makefile.txt
+-rw-rw-r-- 1 nen nen  123 oct 14 10:05 minimo.s
+-rw-rw-r-- 1 nen nen  784 oct 14 10:05 printf2.s
+-rw-rw-r-- 1 nen nen  824 oct 14 10:05 printf.s
+-rw-rw-r-- 1 nen nen 1046 oct 14 10:05 sum0.cc
+-rw-rw-r-- 1 nen nen 1046 oct 14 10:05 sum3.cc
+-rw-rw-r-- 1 nen nen 1046 oct 14 10:05 sum.cc
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/1 Practica 1/2 Ficheros fuente:
+total 20
+-rw-rw-r-- 1 nen nen  92 oct 14 10:04 hola2.cc
+-rw-rw-r-- 1 nen nen 437 oct 14 10:04 hola64.s
+-rw-rw-r-- 1 nen nen 485 oct 14 10:04 hola.s
+-rw-rw-r-- 1 nen nen 299 oct 14 10:04 Makefile.txt
+-rw-rw-r-- 1 nen nen 837 oct 14 10:04 printf.s
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/Practica 1:
+total 8
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 1 Guion
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 2 Ficheros fuente
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/Practica 1/1 Guion:
+total 568
+drwxrwxr-x 2 nen nen   4096 oct 27 11:23 2 Ficheros
+-rw-rw-r-- 1 nen nen 569565 sep 30  2013 practica-01.pdf
+-rw-rw-r-- 1 nen nen    364 oct  1 17:30 Practica 1.htm
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/Practica 1/1 Guion/2 Ficheros:
+total 44
+-rw-rw-r-- 1 nen nen   92 oct  1 18:58 hola2.cc
+-rw-rw-r-- 1 nen nen  726 oct  1 18:58 hola32.s
+-rw-rw-r-- 1 nen nen  911 oct  1 18:59 hola64.s
+-rw-rw-r-- 1 nen nen  486 oct  1 18:58 hola.s
+-rw-rw-r-- 1 nen nen  696 oct  1 18:59 Makefile.txt
+-rw-rw-r-- 1 nen nen  123 oct  1 18:58 minimo.s
+-rw-rw-r-- 1 nen nen  784 oct  1 19:01 printf2.s
+-rw-rw-r-- 1 nen nen  824 oct  1 18:58 printf.s
+-rw-rw-r-- 1 nen nen 1046 oct  1 18:58 sum0.cc
+-rw-rw-r-- 1 nen nen 1046 oct  1 18:58 sum3.cc
+-rw-rw-r-- 1 nen nen 1046 oct  1 18:58 sum.cc
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/Practica 1/2 Ficheros fuente:
+total 20
+-rw-rw-r-- 1 nen nen  92 sep 30  2013 hola2.cc
+-rw-rw-r-- 1 nen nen 437 sep 30  2013 hola64.s
+-rw-rw-r-- 1 nen nen 485 sep 30  2013 hola.s
+-rw-rw-r-- 1 nen nen 299 sep 30  2013 Makefile.txt
+-rw-rw-r-- 1 nen nen 837 sep 30  2013 printf.s
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/Practica 2:
+total 8
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 Practica 2a
+drwxrwxr-x 2 nen nen 4096 oct 28 11:22 Practica 2b
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/Practica 2/Practica 2a:
+total 540
+-rw-rw-r-- 1 nen nen  11813 oct 14 11:16 hola.att
+-rw-rw-r-- 1 nen nen     71 oct  7 09:44 hola.cc
+-rw-rw-r-- 1 nen nen   1232 oct 14 10:05 Makefile
+-rw-rw-r-- 1 nen nen   1232 oct  7 09:44 Makefile.txt
+-rw-rw-r-- 1 nen nen  61635 oct 14 11:16 nada
+-rw-rw-r-- 1 nen nen  10524 oct 14 11:16 nada.att
+-rw-rw-r-- 1 nen nen     50 oct  7 09:45 nada.cc
+-rw-rw-r-- 1 nen nen  30828 oct 14 11:16 p
+-rw-rw-r-- 1 nen nen     50 oct  7 09:45 p1.c
+-rw-rw-r-- 1 nen nen     19 oct  7 09:45 p1.h
+-rw-rw-r-- 1 nen nen     96 oct  7 09:45 p2.c
+-rw-rw-r-- 1 nen nen  10173 oct 14 11:16 p.att
+-rw-rw-r-- 1 nen nen 344667 oct  7 09:44 Practica 2a Tutorial.pdf
+-rw-rw-r-- 1 nen nen   5705 oct 14 11:16 saludo
+-rw-rw-r-- 1 nen nen    497 oct 14 11:16 saludo.att
+-rw-rw-r-- 1 nen nen   1360 oct 14 10:05 saludo.o
+-rw-rw-r-- 1 nen nen   1676 oct  7 09:45 saludo.s
+-rw-rw-r-- 1 nen nen   6198 oct 14 11:16 suma
+-rw-rw-r-- 1 nen nen   1588 oct 14 11:16 suma.att
+-rw-rw-r-- 1 nen nen   1584 oct 14 10:05 suma.o
+-rw-rw-r-- 1 nen nen   1936 oct  7 09:45 suma.s
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/Practica 2/Practica 2b:
+total 7744
+-rw-r----- 1 nen nen  243692 oct 27 21:52 Ensamblador_80x86.pdf
+-rw-r----- 1 nen nen     997 oct 28 10:43 Makefile
+-rwxrwxr-x 1 nen nen   89949 oct 28 11:02 media-h
+-rw-rw-r-- 1 nen nen 2245856 oct 28 11:02 media-h.att
+-rw-rw-r-- 1 nen nen    1277 oct  7 18:34 media-h.cc
+-rw-rw-r-- 1 nen nen  463778 oct  7 18:33 Practica 2b Guion.pdf
+-rwxrwxr-x 1 nen nen    6067 oct 28 11:02 printf32
+-rw-rw-r-- 1 nen nen   15697 oct 28 11:02 printf32.att
+-rw-rw-r-- 1 nen nen     293 oct  7 18:34 printf32.s
+-rwxrwxr-x 1 nen nen    6087 oct 28 11:02 printf64
+-rw-rw-r-- 1 nen nen   16155 oct 28 11:02 printf64.att
+-rw-rw-r-- 1 nen nen     371 oct  7 18:34 printf64.s
+-rw-rw-r-- 1 nen nen    6158 oct  7 18:34 suma
+-rwxrwxr-x 1 nen nen   91195 oct 28 11:02 suma64s-h
+-rw-rw-r-- 1 nen nen 2276765 oct 28 11:02 suma64s-h.att
+-rw-rw-r-- 1 nen nen    1763 oct  7 18:35 suma64s-h.cc
+-rwxrwxr-x 1 nen nen   91174 oct 28 11:02 suma64u-h
+-rw-rw-r-- 1 nen nen 2275350 oct 28 11:02 suma64u-h.att
+-rw-rw-r-- 1 nen nen    1880 oct  7 18:35 suma64u-h.cc
+-rw-rw-r-- 1 nen nen    1588 oct  7 18:34 suma.att
+-rw-rw-r-- 1 nen nen    2121 oct 28 11:22 sumaCONSIGNOCONEAXyEDX.s
+-rw-rw-r-- 1 nen nen    2119 oct 28 11:21 sumaCONSIGNOCONEAXyEDX.s~
+-rwxrwxr-x 1 nen nen    6234 oct 28 11:04 sumaSINSIGNOCONEAXyEDX
+-rw-rw-r-- 1 nen nen   19133 oct 28 11:02 sumaSINSIGNOCONEAXyEDX.att
+-rw-rw-r-- 1 nen nen    1935 oct 28 11:04 sumaSINSIGNOCONEAXyEDX.s
+-rw-rw-r-- 1 nen nen    1925 oct 28 11:01 sumaSINSIGNOCONEAXyEDX.s~
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/Practica 3:
+total 20
+-rw-rw-r-- 1 nen nen 11078 oct  7 18:38 descarga.htm
+drwxrwxr-x 2 nen nen  4096 oct 27 11:23 Practica 3a
+drwxrwxr-x 2 nen nen  4096 oct 27 11:23 Practica 3b
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/Practica 3/Practica 3a:
+total 608
+-rw-rw-r-- 1 nen nen 619594 oct  7 18:35 Practica 3a Tutorial.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/Practica 3/Practica 3b:
+total 780
+-rw-rw-r-- 1 nen nen 795501 oct  7 18:35 Practica 3b Guion.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Practicas/Practica 4:
+total 392
+-rw-rw-r-- 1 nen nen 397955 oct  7 18:36 Practica 4 Tutorial Guion.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Teoria:
+total 8
+drwxrwxr-x 5 nen nen 4096 oct 27 11:22 1 Introduccion
+drwxrwxr-x 5 nen nen 4096 oct 27 11:22 2 Nivel maquina
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Teoria/1 Introduccion:
+total 12
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 1 Presentacion
+drwxrwxr-x 2 nen nen 4096 oct 27 11:22 1 Transparencias
+drwxrwxr-x 2 nen nen 4096 oct 27 11:22 2 Documentos de apoyo
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Teoria/1 Introduccion/1 Presentacion:
+total 676
+-rw-rw-r-- 1 nen nen 692164 sep 24 11:14 Presentacion.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Teoria/1 Introduccion/1 Transparencias:
+total 1276
+-rw-rw-r-- 1 nen nen 1303121 sep 24  2013 Introduccion.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Teoria/1 Introduccion/2 Documentos de apoyo:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Teoria/2 Nivel maquina:
+total 12
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 1 Transparencias
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 2 Documentos de apoyo
+drwxrwxr-x 2 nen nen 4096 oct 27 11:22 3 Problemas
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Teoria/2 Nivel maquina/1 Transparencias:
+total 2020
+-rw-rw-r-- 1 nen nen  886724 oct 14  2012 Nivel_Maquina_1_basico.pdf
+-rw-rw-r-- 1 nen nen 1175671 oct 22 21:46 Nivel_Maquina_2_aritm_control.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Teoria/2 Nivel maquina/2 Documentos de apoyo:
+total 33732
+-rw-rw-r-- 1 nen nen 33376325 nov  9  2011 64-ia-32-architectures-software-developer-vol-1-2a-2b-3a-3b-manual.pdf
+-rw-rw-r-- 1 nen nen    10386 oct 30  2013 cribsheet.pdf
+-rw-rw-r-- 1 nen nen   128156 nov  9  2011 doc-gcc-inline.pdf
+-rw-rw-r-- 1 nen nen    83564 oct 30  2013 IA32ASM.pdf
+-rw-rw-r-- 1 nen nen   338170 nov  8  2011 IA32_Cheat_Sheet.pdf
+-rw-rw-r-- 1 nen nen   591310 oct 30  2013 IA32 Instruction Set.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/EC/Teoria/2 Nivel maquina/3 Problemas:
+total 172
+-rw-rw-r-- 1 nen nen 175476 dic  1  2011 Problemas_Nivel_de_lenguaje_maquina.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/ED:
+total 588
+-rw-rw-r-- 1 nen nen 284672 oct 24 20:27 coleccion-prob.doc
+-rw-rw-r-- 1 nen nen     38 oct  8 18:22 Contraseña.txt
+-rw-rw-r-- 1 nen nen 298654 oct 24 20:22 Eficiencia y BUsquedas.pdf
+drwxrwxr-x 2 nen nen   4096 oct 27 17:17 Ejercicios
+drwxrwxr-x 4 nen nen   4096 oct 26 17:56 Practicas
+drwxrwxr-x 2 nen nen   4096 oct 29 10:39 Teoria
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/ED/Ejercicios:
+total 5088
+-rw-rw-r-- 1 nen nen  307389 oct 27 11:14 Ejercicios ED0001.PDF
+-rw-rw-r-- 1 nen nen  307132 oct 27 11:14 Ejercicios ED0002.PDF
+-rw-rw-r-- 1 nen nen  313125 oct 27 11:14 Ejercicios ED0003.PDF
+-rw-rw-r-- 1 nen nen  289088 oct 27 11:15 Ejercicios ED0004.PDF
+-rw-rw-r-- 1 nen nen  298196 oct 27 11:14 Ejercicios ED0005.PDF
+-rw-rw-r-- 1 nen nen  254006 oct 27 11:15 Ejercicios ED0006.PDF
+-rw-rw-r-- 1 nen nen  353900 oct 27 11:14 Ejercicios ED0007.PDF
+-rw-rw-r-- 1 nen nen  210883 oct 27 11:14 Ejercicios ED0008.PDF
+-rw-rw-r-- 1 nen nen  260446 oct 27 11:14 Ejercicios ED.PDF
+-rw-rw-r-- 1 nen nen 2594022 oct 24 22:31 relacion1.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/ED/Practicas:
+total 1560
+-rw-rw-r-- 1 nen nen     150 oct 20 21:52 desktop.ini
+drwxrwxr-x 3 nen nen    4096 oct 27 11:07 prac1
+drwxrwxr-x 3 nen nen    4096 oct 29 09:51 prac2
+-rw-rw-r-- 1 nen nen 1584870 oct  6 10:58 practica1.zip
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/ED/Practicas/prac1:
+total 7768
+-rw-rw-r-- 1 nen nen     162 oct 20 20:15 ~$actica 1 Documento.odt
+-rw-rw-r-- 1 nen nen     150 oct 20 21:52 desktop.ini
+-rw-rw-r-- 1 nen nen     162 oct 14 19:56 ~$forme de eficiencia Algoritmo de la Burbuja.odt
+-rw-rw-r-- 1 nen nen     162 oct 14 20:09 ~$forme de eficiencia del algoritmo de ordenación de la Burbuja.odt
+-rw-rw-r-- 1 nen nen     162 oct 15 20:32 ~$forme de eficiencia de los algoritmos (1).odt
+-rw-rw-r-- 1 nen nen     162 oct 15 19:54 ~$forme de eficiencia de los algoritmos (2).odt
+-rw-rw-r-- 1 nen nen     162 oct 20 23:16 ~$forme de eficiencia de los algoritmos.odt
+-rw-rw-r-- 1 nen nen   51993 oct 16 11:00 frecuencias
+-rw-rw-r-- 1 nen nen   51993 oct 14 18:35 frecuencias (1)
+-rw-rw-r-- 1 nen nen    8546 oct 15 19:22 frecuencias2.cpp
+-rw-rw-r-- 1 nen nen    8607 oct 15 19:37 frecuencias3.cpp
+-rw-rw-r-- 1 nen nen    8525 oct 15 19:37 frecuencias4.cpp
+-rw-rw-r-- 1 nen nen    3513 oct 14 18:36 frecuenciasB (1).dat
+-rw-rw-r-- 1 nen nen    3513 oct 16 11:00 frecuenciasB.dat
+-rw-rw-r-- 1 nen nen     651 oct 24 21:09 frecuencias.cpp
+-rw-rw-r-- 1 nen nen    8568 oct 16 11:00 frecuencias.cpp~
+-rw-rw-r-- 1 nen nen   59983 oct 16 11:00 frecuenciasV1
+-rw-rw-r-- 1 nen nen     372 oct 15 18:55 frecuenciasV1.dat
+-rw-rw-r-- 1 nen nen      91 oct 14 20:36 frecuenciaV1 (1).log
+-rw-rw-r-- 1 nen nen    8938 oct 14 20:36 frecuenciaV1 (1).pdf
+-rw-rw-r-- 1 nen nen   12162 oct 14 20:35 frecuenciaV1 (1).ps
+-rw-rw-r-- 1 nen nen      91 oct 16 11:00 frecuenciaV1.log
+-rw-rw-r-- 1 nen nen    8938 oct 16 11:00 frecuenciaV1.pdf
+-rw-rw-r-- 1 nen nen   12162 oct 16 11:00 frecuenciaV1.ps
+-rw-rw-r-- 1 nen nen  105592 oct 15 20:11 FRECV2.jpg
+-rw-rw-r-- 1 nen nen      91 oct 15 20:11 FRECV2.log
+-rw-rw-r-- 1 nen nen    8975 oct 15 20:11 FRECV2.pdf
+-rw-rw-r-- 1 nen nen   11805 oct 15 20:11 FRECV2.ps
+-rw-rw-r-- 1 nen nen  110654 oct 15 20:20 FRECV3.jpg
+-rw-rw-r-- 1 nen nen      91 oct 15 20:20 FRECV3.log
+-rw-rw-r-- 1 nen nen    8949 oct 15 20:20 FRECV3.pdf
+-rw-rw-r-- 1 nen nen   12270 oct 15 20:18 FRECV3.ps
+-rw-rw-r-- 1 nen nen  110974 oct 15 20:29 FRECV4.jpg
+-rw-rw-r-- 1 nen nen      91 oct 15 20:29 FRECV4.log
+-rw-rw-r-- 1 nen nen    8925 oct 15 20:29 FRECV4.pdf
+-rw-rw-r-- 1 nen nen   12270 oct 15 20:29 FRECV4.ps
+-rw-rw-r-- 1 nen nen  180204 oct 11  2012 gnuplot.pdf
+-rw-rw-r-- 1 nen nen   26462 oct 14 19:11 Informe de eficiencia Algoritmo de la Burbuja.odt
+-rw-rw-r-- 1 nen nen  127463 oct 15 10:52 Informe de eficiencia del algoritmo de ordenación de la Burbuja.odt
+-rw-rw-r-- 1 nen nen  670915 oct 20 23:16 Informe de eficiencia de los algoritmos.odt
+-rw-rw-r-- 1 nen nen  705307 oct 20 23:16 Informe de eficiencia de los algoritmos.pdf
+-rw-rw-r-- 1 nen nen  850144 oct  3  2011 lema.txt
+-rw-rw-r-- 1 nen nen   21803 oct 16 11:00 ocurrencias
+-rw-rw-r-- 1 nen nen   21803 oct 14 18:29 ocurrencias (1)
+-rw-rw-r-- 1 nen nen    6478 oct 14 18:31 ocurrenciasB (1).dat
+-rw-rw-r-- 1 nen nen    6478 oct 16 11:00 ocurrenciasB.dat
+-rw-rw-r-- 1 nen nen     293 oct 24 21:03 ocurrencias.cpp
+-rw-rw-r-- 1 nen nen    1266 oct 15 19:17 ocurrencias.dat
+-rw-rw-r-- 1 nen nen   29730 oct 16 11:00 ordenacion
+-rw-rw-r-- 1 nen nen   29730 oct 14 18:07 ordenacion (1)
+-rw-rw-r-- 1 nen nen      91 oct 14 19:57 ordenacion (1).log
+-rw-rw-r-- 1 nen nen    8920 oct 14 20:11 ordenacion (1).pdf
+-rw-rw-r-- 1 nen nen   11172 oct 14 20:11 ordenacion (1).ps
+-rw-rw-r-- 1 nen nen     204 oct 14 18:22 ordenacionB.dat
+-rw-rw-r-- 1 nen nen    2097 oct  3  2011 ordenacion.cpp
+-rw-rw-r-- 1 nen nen  102502 oct 14 20:11 ordenacion.jpg
+-rw-rw-r-- 1 nen nen      91 oct 16 11:00 ordenacion.log
+-rw-rw-r-- 1 nen nen    8920 oct 16 11:00 ordenacion.pdf
+-rw-rw-r-- 1 nen nen   11172 oct 16 11:00 ordenacion.ps
+-rw-rw-r-- 1 nen nen     206 oct  3  2011 ordenB.eje.dat
+-rw-rw-r-- 1 nen nen   95502 oct 20 20:15 Practica 1 Documento.odt
+-rw-rw-r-- 1 nen nen  489755 oct 11  2012 PracticaEficiencia.pdf
+drwxrwxr-x 4 nen nen    4096 oct 27 11:06 PruebasEficienciaAl
+-rw-rw-r-- 1 nen nen 2177752 oct  3  2011 quijote.txt
+-rw-rw-r-- 1 nen nen    1144 oct 15 18:58 resFRECV1
+-rw-rw-r-- 1 nen nen  113323 oct 15 19:00 RESFRECV1.jpg
+-rw-rw-r-- 1 nen nen      91 oct 15 18:59 RESFRECV1.log
+-rw-rw-r-- 1 nen nen    8979 oct 15 18:59 RESFRECV1.pdf
+-rw-rw-r-- 1 nen nen   12817 oct 15 19:00 RESFRECV1.ps
+-rw-rw-r-- 1 nen nen    1576 oct 15 20:09 RESFRECV2
+-rw-rw-r-- 1 nen nen    2390 oct 15 20:17 RESFRECV3
+-rw-rw-r-- 1 nen nen    4424 oct 15 20:28 RESFRECV4
+-rw-rw-r-- 1 nen nen    1171 oct 15 19:19 RESOCURRENCIAS
+-rw-rw-r-- 1 nen nen  120332 oct 15 19:20 RESOCURRENCIAS.jpg
+-rw-rw-r-- 1 nen nen     409 oct 20 11:25 RESSORTSTL
+-rw-rw-r-- 1 nen nen     400 oct 20 23:14 sort
+-rw-rw-r-- 1 nen nen  102028 oct 20 23:15 sort.jpg
+-rw-rw-r-- 1 nen nen      91 oct 20 23:14 sort.log
+-rw-rw-r-- 1 nen nen   10931 oct 20 23:14 sort.pdf
+-rw-rw-r-- 1 nen nen   23320 oct 20 23:14 sort.ps
+-rw-rw-r-- 1 nen nen   59146 oct 20 23:06 sortSTL
+-rw-rw-r-- 1 nen nen    6811 oct 20 23:03 sortSTL.cpp
+-rw-rw-r-- 1 nen nen    6805 oct 20 11:25 sortSTL.cpp~
+-rw-rw-r-- 1 nen nen    4283 oct 20 23:07 sortSTL.dat
+-rw-rw-r-- 1 nen nen      91 oct 20 21:40 SORTSTL.log
+-rw-rw-r-- 1 nen nen    8996 oct 20 21:40 SORTSTL.pdf
+-rw-rw-r-- 1 nen nen   11569 oct 20 11:25 SORTSTL.ps
+-rw-rw-r-- 1 nen nen   73901 oct 15 10:44 TransparenciasPracticaEficiencia.pdf
+-rw-rw-r-- 1 nen nen      91 oct 15 19:19 Untitled.log
+-rw-rw-r-- 1 nen nen    9226 oct 15 19:19 Untitled.pdf
+-rw-rw-r-- 1 nen nen   15579 oct 15 19:20 Untitled.ps
+-rw-rw-r-- 1 nen nen  106375 oct 20 21:13 v3.jpg
+-rw-rw-r-- 1 nen nen      91 oct 20 21:13 v3.log
+-rw-rw-r-- 1 nen nen    9029 oct 20 21:13 v3.pdf
+-rw-rw-r-- 1 nen nen   12270 oct 20 21:11 v3.ps
+-rw-rw-r-- 1 nen nen     761 oct 20 21:18 V4
+-rw-rw-r-- 1 nen nen  105376 oct 20 21:21 V4.jpg
+-rw-rw-r-- 1 nen nen      91 oct 20 21:21 V4.log
+-rw-rw-r-- 1 nen nen    9042 oct 20 21:21 V4.pdf
+-rw-rw-r-- 1 nen nen   12478 oct 20 21:20 V4.ps
+-rw-rw-r-- 1 nen nen  598079 oct 15 20:31 ~WRL0005.tmp
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/ED/Practicas/prac1/PruebasEficienciaAl:
+total 8496
+drwxrwxr-x 2 nen nen    4096 oct 24 21:03 Debug
+-rw-rw-r-- 1 nen nen     150 oct 20 21:52 desktop.ini
+drwxrwxr-x 3 nen nen    4096 oct 27 11:06 PruebasEficienciaAl
+-rw-rw-r-- 1 nen nen      20 oct 20 17:44 PruebasEficienciaAl (1).opensdf
+-rw-rw-r-- 1 nen nen      20 oct 24 20:57 PruebasEficienciaAl.opensdf
+-rw-rw-r-- 1 nen nen 8650752 oct 24 21:15 PruebasEficienciaAl.sdf
+-rw-rw-r-- 1 nen nen    1031 oct 20 17:44 PruebasEficienciaAl.sln
+-rw-rw-r-- 1 nen nen   22016 oct 24 21:15 PruebasEficienciaAl.v12.suo
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/ED/Practicas/prac1/PruebasEficienciaAl/Debug:
+total 1972
+-rw-rw-r-- 1 nen nen     150 oct 20 21:52 desktop.ini
+-rw-rw-r-- 1 nen nen   66048 oct 24 21:09 PruebasEficienciaAl.exe
+-rw-rw-r-- 1 nen nen  562300 oct 24 21:09 PruebasEficienciaAl.ilk
+-rw-rw-r-- 1 nen nen 1379328 oct 24 21:09 PruebasEficienciaAl.pdb
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/ED/Practicas/prac1/PruebasEficienciaAl/PruebasEficienciaAl:
+total 24
+drwxrwxr-x 3 nen nen 4096 oct 24 21:09 Debug
+-rw-rw-r-- 1 nen nen  150 oct 20 21:52 desktop.ini
+-rw-rw-r-- 1 nen nen    0 oct 20 17:49 frecV1 (1).txt
+-rw-rw-r-- 1 nen nen   62 oct 24 21:08 frecV1.txt
+-rw-rw-r-- 1 nen nen 3403 oct 20 17:49 PruebasEficienciaAl.vcxproj
+-rw-rw-r-- 1 nen nen 1013 oct 20 17:48 PruebasEficienciaAl.vcxproj.filters
+-rw-rw-r-- 1 nen nen  375 oct 24 21:08 PruebasEficienciaAl.vcxproj.user
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/ED/Practicas/prac1/PruebasEficienciaAl/PruebasEficienciaAl/Debug:
+total 996
+-rw-rw-r-- 1 nen nen    150 oct 20 21:52 desktop.ini
+-rw-rw-r-- 1 nen nen 155619 oct 24 21:09 frecuencias.obj
+drwxrwxr-x 2 nen nen   4096 oct 27 11:07 PruebasE.2DBA2CB5.tlog
+-rw-rw-r-- 1 nen nen   1901 oct 24 21:09 PruebasEficienciaAl.log
+-rw-rw-r-- 1 nen nen 314368 oct 24 21:09 vc120.idb
+-rw-rw-r-- 1 nen nen 536576 oct 24 21:09 vc120.pdb
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/ED/Practicas/prac1/PruebasEficienciaAl/PruebasEficienciaAl/Debug/PruebasE.2DBA2CB5.tlog:
+total 36
+-rw-rw-r-- 1 nen nen  782 oct 24 21:09 cl.command.1.tlog
+-rw-rw-r-- 1 nen nen 7668 oct 24 21:09 CL.read.1.tlog
+-rw-rw-r-- 1 nen nen 1168 oct 24 21:09 CL.write.1.tlog
+-rw-rw-r-- 1 nen nen  150 oct 20 21:52 desktop.ini
+-rw-rw-r-- 1 nen nen 1880 oct 24 21:09 link.command.1.tlog
+-rw-rw-r-- 1 nen nen 2754 oct 24 21:09 link.read.1.tlog
+-rw-rw-r-- 1 nen nen 1212 oct 24 21:09 link.write.1.tlog
+-rw-rw-r-- 1 nen nen  252 oct 24 21:09 PruebasEficienciaAl.lastbuildstate
+-rw-rw-r-- 1 nen nen    0 oct 20 17:48 unsuccessfulbuild
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/ED/Practicas/prac2:
+total 2556
+-rw-rw-r-- 1 nen nen     150 oct 26 17:56 desktop.ini
+-rw-rw-r-- 1 nen nen 2324754 oct 26 17:56 meteorites_all.csv
+drwxrwxr-x 2 nen nen    4096 oct 29 11:21 practica2
+-rw-rw-r-- 1 nen nen   28382 oct 26 17:56 practica2.zip
+-rw-rw-r-- 1 nen nen  156191 oct 26 17:56 refman.pdf
+-rw-rw-r-- 1 nen nen   92485 oct 26 17:56 TransparenciasPracticaDiccionario.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/ED/Practicas/prac2/practica2:
+total 112
+-rw-rw-r-- 1 nen nen  4984 oct 15 10:57 diccionario.h
+-rw-rw-r-- 1 nen nen  1746 oct 15 10:58 diccionario.hxx
+-rw-rw-r-- 1 nen nen  2131 oct 29 11:21 diccionarioV1.hxx
+-rw-rw-r-- 1 nen nen  2147 oct 29 11:20 diccionarioV1.hxx~
+-rw-rw-r-- 1 nen nen  7670 oct 15 11:33 documentacion.main
+-rw-rw-r-- 1 nen nen 74393 oct 15 11:34 dox_diccionario
+-rw-rw-r-- 1 nen nen   979 oct 15 14:43 meteorito.h
+-rw-rw-r-- 1 nen nen   584 oct 15 11:33 principal.cpp
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/ED/Teoria:
+total 12700
+-rw-rw-r-- 1 nen nen   133256 oct 14 20:41 ED1415_relacion1_eficiencia.pdf
+-rw-rw-r-- 1 nen nen 11150010 oct  8 18:22 ED1415-tema1.pdf
+-rw-r----- 1 nen nen        2 oct 29 10:39 ED1415-tema2_c++.pdf
+-rw-rw-r-- 1 nen nen   319567 oct 14 20:41 ED1415-tema2.pdf
+-rw-r----- 1 nen nen  1011234 oct 29 10:39 ED1415-tema3.pdf
+-rw-rw-r-- 1 nen nen   203310 oct 18 21:19 FooPlot   Graficador de Funciones Matematicas.png
+-rw-rw-r-- 1 nen nen     8417 oct 22 20:51 fumadores
+-rw-rw-r-- 1 nen nen     1404 oct 22 20:49 fumadores.cpp
+-rw-rw-r-- 1 nen nen   104308 oct  8 18:22 Presentacion_ed2014.pdf
+-rw-rw-r-- 1 nen nen    38332 oct 18 20:11 save.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO:
+total 1736
+drwxrwxr-x 4 nen nen    4096 oct 27 11:21 Curso 14-15
+-rw-rw-r-- 1 nen nen 1753398 oct  1 19:10 documentos.zip
+drwxrwxr-x 4 nen nen    4096 oct 27 11:21 Ejercicios
+drwxrwxr-x 2 nen nen    4096 oct 27 11:21 Otros
+drwxrwxr-x 5 nen nen    4096 oct 27 11:22 Practicas
+drwxrwxr-x 4 nen nen    4096 oct 27 11:21 Teoria
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Curso 14-15:
+total 8
+drwxrwxr-x 2 nen nen 4096 oct 27 11:21 Practicas
+drwxrwxr-x 2 nen nen 4096 oct 27 11:21 Teoria
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Curso 14-15/Practicas:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Curso 14-15/Teoria:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Ejercicios:
+total 140
+-rw-rw-r-- 1 nen nen 131168 oct 18 16:11 EjerciciosTema21.pdf
+drwxrwxr-x 3 nen nen   4096 oct 27 11:22 Ruby
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 Tema2
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Ejercicios/Ruby:
+total 52
+drwxrwxr-x 4 nen nen  4096 oct 27 11:23 basicoRuby0
+-rw-rw-r-- 1 nen nen 48974 oct  1 13:45 basicoRuby0.zip
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Ejercicios/Ruby/basicoRuby0:
+total 44
+drwxrwxr-x 6 nen nen  4096 oct 27 11:23 Basico0
+drwxrwxr-x 2 nen nen  4096 oct 27 11:23 Codigo
+-rw-rw-r-- 1 nen nen 33922 sep 29  2013 Leeme_Instalación del entorno.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Ejercicios/Ruby/basicoRuby0/Basico0:
+total 28
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 lib
+-rw-rw-r-- 1 nen nen   59 sep 23  2013 LICENSE
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 nbproject
+-rw-rw-r-- 1 nen nen 1234 sep 23  2013 Rakefile
+-rw-rw-r-- 1 nen nen   51 sep 23  2013 README
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 spec
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 test
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Ejercicios/Ruby/basicoRuby0/Basico0/lib:
+total 24
+-rw-rw-r-- 1 nen nen 2857 oct  1 12:54 Ejemplos_Array.rb
+-rw-rw-r-- 1 nen nen 2485 oct  1 12:38 Ejemplos_Control.rb
+-rw-rw-r-- 1 nen nen 1036 oct  1 13:02 Ejemplos_Hash.rb
+-rw-rw-r-- 1 nen nen 4621 oct  1 12:14 Ejemplos_Iniciales.rb
+-rw-rw-r-- 1 nen nen 2916 oct  1 13:09 main.rb
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Ejercicios/Ruby/basicoRuby0/Basico0/nbproject:
+total 12
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 private
+-rw-rw-r-- 1 nen nen  129 sep 26  2013 project.properties
+-rw-rw-r-- 1 nen nen  542 sep 26  2013 project.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Ejercicios/Ruby/basicoRuby0/Basico0/nbproject/private:
+total 12
+-rw-rw-r-- 1 nen nen   0 sep 26  2013 config.properties
+-rw-rw-r-- 1 nen nen  24 sep 26  2013 private.properties
+-rw-rw-r-- 1 nen nen 962 oct  1 13:19 private.xml
+-rw-rw-r-- 1 nen nen 498 oct  1 10:22 rake-d.txt
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Ejercicios/Ruby/basicoRuby0/Basico0/spec:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Ejercicios/Ruby/basicoRuby0/Basico0/test:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Ejercicios/Ruby/basicoRuby0/Codigo:
+total 20
+-rw-rw-r-- 1 nen nen 2737 sep 24  2013 Ejemplos_Array.rb
+-rw-rw-r-- 1 nen nen 2603 sep 24  2013 Ejemplos_Control.rb
+-rw-rw-r-- 1 nen nen 2491 sep 24  2013 Ejemplos_Hash.rb
+-rw-rw-r-- 1 nen nen 3778 sep 26  2013 Ejemplos_Iniciales.rb
+-rw-rw-r-- 1 nen nen 2760 sep 26  2013 main.rb
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Ejercicios/Tema2:
+total 132
+-rw-rw-r-- 1 nen nen 131168 oct  7 13:05 EjerciciosTema21.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Otros:
+total 52
+-rw-rw-r-- 1 nen nen 49955 sep 23 08:29 guiaPDOO_1415.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas:
+total 160
+-rw-rw-r-- 1 nen nen    150 oct 27 11:21 desktop.ini
+-rw-rw-r-- 1 nen nen 145184 oct  2 17:33 GuionP1S1.pdf
+drwxrwxr-x 4 nen nen   4096 oct 27 11:22 P1
+drwxrwxr-x 2 nen nen   4096 oct 27 11:22 P2
+drwxrwxr-x 2 nen nen   4096 oct 27 11:21 P3
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1:
+total 7264
+-rw-rw-r-- 1 nen nen 2904791 oct 10 10:23 cartasMonstruos.pdf
+-rw-rw-r-- 1 nen nen 3958335 oct 10 10:23 cartasTesoros.pdf
+-rw-rw-r-- 1 nen nen     150 oct 27 11:22 desktop.ini
+-rw-rw-r-- 1 nen nen  145184 oct  2 13:37 GuionP1S1.pdf
+-rw-rw-r-- 1 nen nen  207313 oct 10 10:23 GuionP1S2.pdf
+-rw-rw-r-- 1 nen nen  158731 oct 24 09:43 GuionP1S3.pdf
+drwxrwxr-x 5 nen nen    4096 oct 27 11:23 Napakalaki
+drwxrwxr-x 6 nen nen    4096 oct 27 11:23 Napakalaki_Ruby
+-rw-rw-r-- 1 nen nen   38476 oct 26 21:17 Practica 1 Emilio Chica Jimenez y Julian Torrices Hernandez.zip
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki:
+total 24
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 build
+-rw-rw-r-- 1 nen nen 3615 oct 10 09:37 build.xml
+-rw-rw-r-- 1 nen nen  150 oct 27 11:22 desktop.ini
+-rw-rw-r-- 1 nen nen   85 oct 10 09:37 manifest.mf
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 nbproject
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 src
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki/build:
+total 8
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 classes
+-rw-rw-r-- 1 nen nen  150 oct 27 11:23 desktop.ini
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki/build/classes:
+total 8
+-rw-rw-r-- 1 nen nen  150 oct 27 11:23 desktop.ini
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 napakalaki
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki/build/classes/napakalaki:
+total 32
+-rw-rw-r-- 1 nen nen 2942 oct 26 21:18 BadConsequence.class
+-rw-rw-r-- 1 nen nen  150 oct 27 11:23 desktop.ini
+-rw-rw-r-- 1 nen nen 1393 oct 26 21:18 Monster.class
+-rw-rw-r-- 1 nen nen  277 oct 26 21:18 Napakalaki.class
+-rw-rw-r-- 1 nen nen  859 oct 26 21:18 Prize.class
+-rw-rw-r-- 1 nen nen 6734 oct 26 21:18 PruebaNapakalaki.class
+-rw-rw-r-- 1 nen nen 1155 oct 26 21:18 TreasureKind.class
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki/nbproject:
+total 100
+-rw-rw-r-- 1 nen nen 79330 oct 10 09:37 build-impl.xml
+-rw-rw-r-- 1 nen nen   150 oct 27 11:22 desktop.ini
+-rw-rw-r-- 1 nen nen   475 oct 10 09:37 genfiles.properties
+drwxrwxr-x 2 nen nen  4096 oct 27 11:24 private
+-rw-rw-r-- 1 nen nen  2448 oct 26 20:25 project.properties
+-rw-rw-r-- 1 nen nen   518 oct 10 09:37 project.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki/nbproject/private:
+total 12
+-rw-rw-r-- 1 nen nen 150 oct 27 11:23 desktop.ini
+-rw-rw-r-- 1 nen nen 115 oct 10 09:37 private.properties
+-rw-rw-r-- 1 nen nen 343 oct 26 21:19 private.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki/src:
+total 8
+-rw-rw-r-- 1 nen nen  150 oct 27 11:23 desktop.ini
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 napakalaki
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki/src/napakalaki:
+total 32
+-rw-rw-r-- 1 nen nen 2423 oct 17 11:18 BadConsequence.java
+-rw-rw-r-- 1 nen nen  150 oct 27 11:23 desktop.ini
+-rw-rw-r-- 1 nen nen 1046 oct 17 11:16 Monster.java
+-rw-rw-r-- 1 nen nen  320 oct 24 11:15 Napakalaki.java
+-rw-rw-r-- 1 nen nen  721 oct 10 10:13 Prize.java
+-rw-rw-r-- 1 nen nen 8125 oct 26 21:15 PruebaNapakalaki.java
+-rw-rw-r-- 1 nen nen  326 oct 10 09:46 TreasureKind.java
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki_Ruby:
+total 32
+-rw-rw-r-- 1 nen nen  150 oct 27 11:22 desktop.ini
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 lib
+-rw-rw-r-- 1 nen nen   68 oct 24 09:45 LICENSE
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 nbproject
+-rw-rw-r-- 1 nen nen 1334 oct 24 09:45 Rakefile
+-rw-rw-r-- 1 nen nen   60 oct 24 09:45 README
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 spec
+drwxrwxr-x 2 nen nen 4096 oct 27 11:22 test
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki_Ruby/lib:
+total 40
+-rw-rw-r-- 1 nen nen 1765 oct 26 21:11 bad_consequence.rb
+-rw-rw-r-- 1 nen nen  255 oct 24 10:10 bad_stuff.rb
+-rw-rw-r-- 1 nen nen  150 oct 27 11:22 desktop.ini
+-rw-rw-r-- 1 nen nen  195 oct 24 09:45 main.rb
+-rw-rw-r-- 1 nen nen  544 oct 24 11:07 monster.rb
+-rw-rw-r-- 1 nen nen  203 oct 24 09:49 napakalaki.rb
+-rw-rw-r-- 1 nen nen  220 oct 24 09:47 prize (1).rb
+-rw-rw-r-- 1 nen nen  416 oct 24 10:05 prize.rb
+-rw-rw-r-- 1 nen nen  333 oct 24 11:25 prueba_napakalaki.rb
+-rw-rw-r-- 1 nen nen  361 oct 26 19:57 treasure_kind.rb
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki_Ruby/nbproject:
+total 16
+-rw-rw-r-- 1 nen nen  150 oct 27 11:22 desktop.ini
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 private
+-rw-rw-r-- 1 nen nen  118 oct 24 09:45 project.properties
+-rw-rw-r-- 1 nen nen  566 oct 24 09:45 project.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki_Ruby/nbproject/private:
+total 12
+-rw-rw-r-- 1 nen nen 150 oct 27 11:23 desktop.ini
+-rw-rw-r-- 1 nen nen 819 oct 24 11:25 private.xml
+-rw-rw-r-- 1 nen nen 538 oct 24 09:46 rake-d.txt
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki_Ruby/spec:
+total 4
+-rw-rw-r-- 1 nen nen 150 oct 27 11:23 desktop.ini
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P1/Napakalaki_Ruby/test:
+total 4
+-rw-rw-r-- 1 nen nen 150 oct 27 11:22 desktop.ini
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P2:
+total 884
+-rw-rw-r-- 1 nen nen 249919 oct 25 13:34 DClasesNapakalaki.pdf
+-rw-rw-r-- 1 nen nen    150 oct 27 11:21 desktop.ini
+-rw-rw-r-- 1 nen nen 216219 oct 25 13:34 GuionP2S1.pdf
+-rw-rw-r-- 1 nen nen 427731 oct 26 18:33 P2.zip
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Practicas/P3:
+total 4
+-rw-rw-r-- 1 nen nen 150 oct 27 11:21 desktop.ini
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria:
+total 8
+drwxrwxr-x 2 nen nen 4096 oct 27 11:22 Tema1
+drwxrwxr-x 4 nen nen 4096 oct 27 11:22 Tema2
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema1:
+total 972
+-rw-rw-r-- 1 nen nen 992343 sep 23 08:27 Tema1_1415.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2:
+total 8
+drwxrwxr-x 8 nen nen 4096 oct 27 11:23 Tema21
+drwxrwxr-x 2 nen nen 4096 oct 27 11:22 Tema22
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21:
+total 884
+drwxrwxr-x  6 nen nen   4096 oct 27 11:23 El_Ciclista
+drwxrwxr-x 10 nen nen   4096 oct 27 11:23 El_Ciclista_Ruby
+-rw-rw-r--  1 nen nen   6865 oct  7 13:08 El_Ciclista_Ruby.zip
+-rw-rw-r--  1 nen nen  26874 oct  7 13:08 El_Ciclista.zip
+drwxrwxr-x  6 nen nen   4096 oct 27 11:23 El_Club
+drwxrwxr-x  7 nen nen   4096 oct 27 11:23 El_Club_Ruby
+-rw-rw-r--  1 nen nen   6694 oct  7 13:08 El_Club_Ruby.zip
+-rw-rw-r--  1 nen nen  28491 oct  7 13:08 El_Club.zip
+drwxrwxr-x  5 nen nen   4096 oct 27 11:23 La_Bicicleta
+-rw-rw-r--  1 nen nen  24058 sep 30 14:02 La_Bicicleta_Java.zip
+drwxrwxr-x  9 nen nen   4096 oct 27 11:23 La_Bicicleta_Ruby
+-rw-rw-r--  1 nen nen   6942 sep 30 14:08 La_Bicicleta_Ruby.zip
+-rw-rw-r--  1 nen nen 770581 sep 30 14:04 Tema 2 - Leccion 1.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista:
+total 24
+drwxrwxr-x 5 nen nen 4096 oct 27 11:23 build
+-rw-rw-r-- 1 nen nen 3545 sep 27 12:13 build.xml
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 dist
+-rw-rw-r-- 1 nen nen   82 sep 27 12:13 manifest.mf
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 nbproject
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 src
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista/build:
+total 16
+-rw-rw-r-- 1 nen nen  102 sep 27 19:05 built-jar.properties
+drwxrwxr-x 3 nen nen 4096 oct 27 11:24 classes
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 empty
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 generated-sources
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista/build/classes:
+total 4
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 el_ciclista
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista/build/classes/el_ciclista:
+total 16
+-rw-rw-r-- 1 nen nen 2315 oct  7 11:51 Bicicleta.class
+-rw-rw-r-- 1 nen nen 1940 oct  7 11:51 Ciclista.class
+-rw-rw-r-- 1 nen nen  595 oct  7 11:51 Club.class
+-rw-rw-r-- 1 nen nen 1039 oct  7 11:51 PruebaCiclista.class
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista/build/empty:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista/build/generated-sources:
+total 4
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 ap-source-output
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista/build/generated-sources/ap-source-output:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista/dist:
+total 12
+-rw-rw-r-- 1 nen nen 4739 sep 27 19:05 El_Ciclista.jar
+-rw-rw-r-- 1 nen nen 1326 sep 27 19:05 README.TXT
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista/nbproject:
+total 96
+-rw-rw-r-- 1 nen nen 77922 sep 27 12:13 build-impl.xml
+-rw-rw-r-- 1 nen nen   467 sep 27 12:13 genfiles.properties
+drwxrwxr-x 2 nen nen  4096 oct 27 11:24 private
+-rw-rw-r-- 1 nen nen  2407 oct  7 11:51 project.properties
+-rw-rw-r-- 1 nen nen   504 sep 27 12:13 project.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista/nbproject/private:
+total 8
+-rw-rw-r-- 1 nen nen   0 oct  7 11:51 config.properties
+-rw-rw-r-- 1 nen nen 149 oct  7 11:51 private.properties
+-rw-rw-r-- 1 nen nen 343 sep 30 11:58 private.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista/src:
+total 4
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 el_ciclista
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista/src/el_ciclista:
+total 16
+-rw-rw-r-- 1 nen nen 2241 sep 27 19:34 Bicicleta.java
+-rw-rw-r-- 1 nen nen 1319 sep 27 19:34 Ciclista.java
+-rw-rw-r-- 1 nen nen  551 sep 27 19:33 Club.java
+-rw-rw-r-- 1 nen nen  517 sep 29 21:02 PruebaCiclista.java
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista_Ruby:
+total 44
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 lib
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 lib (1)
+-rw-rw-r-- 1 nen nen   74 sep 29 21:10 LICENSE
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 nbproject
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 nbproject (1)
+-rw-rw-r-- 1 nen nen 1106 sep 29 21:10 Rakefile
+-rw-rw-r-- 1 nen nen   66 sep 29 21:10 README
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 spec
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 spec (1)
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 test
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 test (1)
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista_Ruby/lib:
+total 16
+-rw-rw-r-- 1 nen nen 1928 sep 29 21:10 bicicleta.rb
+-rw-rw-r-- 1 nen nen 1160 sep 29 21:10 ciclista.rb
+-rw-rw-r-- 1 nen nen  353 sep 29 21:10 club.rb
+-rw-rw-r-- 1 nen nen  597 sep 29 21:10 prueba_Ciclista.rb
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista_Ruby/lib (1):
+total 16
+-rw-rw-r-- 1 nen nen 1928 sep 29 21:10 bicicleta.rb
+-rw-rw-r-- 1 nen nen 1160 sep 29 21:10 ciclista.rb
+-rw-rw-r-- 1 nen nen  353 sep 29 21:10 club.rb
+-rw-rw-r-- 1 nen nen  597 sep 29 21:10 prueba_Ciclista.rb
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista_Ruby/nbproject:
+total 12
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 private
+-rw-rw-r-- 1 nen nen  127 sep 29 21:10 project.properties
+-rw-rw-r-- 1 nen nen  551 sep 29 21:11 project.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista_Ruby/nbproject/private:
+total 8
+-rw-rw-r-- 1 nen nen   0 sep 29 21:10 config.properties
+-rw-rw-r-- 1 nen nen  24 sep 29 21:10 private.properties
+-rw-rw-r-- 1 nen nen 414 sep 29 21:33 private.xml
+-rw-rw-r-- 1 nen nen   0 oct  7 11:45 rake-d.txt
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista_Ruby/nbproject (1):
+total 12
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 private
+-rw-rw-r-- 1 nen nen  127 sep 29 21:10 project.properties
+-rw-rw-r-- 1 nen nen  551 sep 29 21:11 project.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista_Ruby/nbproject (1)/private:
+total 8
+-rw-rw-r-- 1 nen nen   0 sep 29 21:10 config.properties
+-rw-rw-r-- 1 nen nen  24 sep 29 21:10 private.properties
+-rw-rw-r-- 1 nen nen 414 sep 29 21:33 private.xml
+-rw-rw-r-- 1 nen nen   0 oct  7 11:45 rake-d.txt
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista_Ruby/spec:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista_Ruby/spec (1):
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista_Ruby/test:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Ciclista_Ruby/test (1):
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club:
+total 24
+drwxrwxr-x 5 nen nen 4096 oct 27 11:23 build
+-rw-rw-r-- 1 nen nen 3533 sep 27 20:13 build.xml
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 dist
+-rw-rw-r-- 1 nen nen   82 sep 27 20:13 manifest.mf
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 nbproject
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 src
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club/build:
+total 16
+-rw-rw-r-- 1 nen nen   98 sep 27 20:33 built-jar.properties
+drwxrwxr-x 3 nen nen 4096 oct 27 11:24 classes
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 empty
+drwxrwxr-x 3 nen nen 4096 oct 27 11:24 generated-sources
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club/build/classes:
+total 4
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 el_club
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club/build/classes/el_club:
+total 16
+-rw-rw-r-- 1 nen nen 2307 oct  7 11:51 Bicicleta.class
+-rw-rw-r-- 1 nen nen 1961 oct  7 11:51 Ciclista.class
+-rw-rw-r-- 1 nen nen 1598 oct  7 11:51 Club.class
+-rw-rw-r-- 1 nen nen 1033 oct  7 11:51 PruebaClub.class
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club/build/empty:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club/build/generated-sources:
+total 4
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 ap-source-output
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club/build/generated-sources/ap-source-output:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club/dist:
+total 12
+-rw-rw-r-- 1 nen nen 7916 sep 27 20:33 El_Club.jar
+-rw-rw-r-- 1 nen nen 1322 sep 27 20:33 README.TXT
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club/nbproject:
+total 96
+-rw-rw-r-- 1 nen nen 77902 sep 27 20:13 build-impl.xml
+-rw-rw-r-- 1 nen nen   467 sep 27 20:13 genfiles.properties
+drwxrwxr-x 2 nen nen  4096 oct 27 11:24 private
+-rw-rw-r-- 1 nen nen  2391 oct  7 11:51 project.properties
+-rw-rw-r-- 1 nen nen   500 sep 27 20:13 project.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club/nbproject/private:
+total 8
+-rw-rw-r-- 1 nen nen   0 oct  7 11:51 config.properties
+-rw-rw-r-- 1 nen nen 149 oct  7 11:51 private.properties
+-rw-rw-r-- 1 nen nen 823 sep 29 21:33 private.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club/src:
+total 4
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 el_club
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club/src/el_club:
+total 16
+-rw-rw-r-- 1 nen nen 2237 sep 27 20:14 Bicicleta.java
+-rw-rw-r-- 1 nen nen 1380 sep 27 20:33 Ciclista.java
+-rw-rw-r-- 1 nen nen  830 sep 27 20:35 Club.java
+-rw-rw-r-- 1 nen nen  655 sep 29 21:33 PruebaClub.java
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club_Ruby:
+total 32
+drwxrwxr-x 6 nen nen 4096 oct 27 11:23 El_Club_Ruby
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 lib
+-rw-rw-r-- 1 nen nen   64 sep 29 21:13 LICENSE
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 nbproject
+-rw-rw-r-- 1 nen nen 1328 sep 29 21:13 Rakefile
+-rw-rw-r-- 1 nen nen   56 sep 29 21:13 README
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 spec
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 test
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club_Ruby/El_Club_Ruby:
+total 28
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 lib
+-rw-rw-r-- 1 nen nen   64 sep 29 21:13 LICENSE
+drwxrwxr-x 3 nen nen 4096 oct 27 11:24 nbproject
+-rw-rw-r-- 1 nen nen 1328 sep 29 21:13 Rakefile
+-rw-rw-r-- 1 nen nen   56 sep 29 21:13 README
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 spec
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 test
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club_Ruby/El_Club_Ruby/lib:
+total 16
+-rw-rw-r-- 1 nen nen 1924 sep 29 21:31 bicicleta.rb
+-rw-rw-r-- 1 nen nen 1156 sep 29 21:31 ciclista.rb
+-rw-rw-r-- 1 nen nen  593 sep 29 21:31 club.rb
+-rw-rw-r-- 1 nen nen  635 sep 29 21:33 Prueba_Club.rb
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club_Ruby/El_Club_Ruby/nbproject:
+total 12
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 private
+-rw-rw-r-- 1 nen nen  112 sep 29 21:13 project.properties
+-rw-rw-r-- 1 nen nen  547 sep 29 21:13 project.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club_Ruby/El_Club_Ruby/nbproject/private:
+total 8
+-rw-rw-r-- 1 nen nen 804 sep 29 21:33 private.xml
+-rw-rw-r-- 1 nen nen 523 oct  7 11:45 rake-d.txt
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club_Ruby/El_Club_Ruby/spec:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club_Ruby/El_Club_Ruby/test:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club_Ruby/lib:
+total 16
+-rw-rw-r-- 1 nen nen 1924 sep 29 21:31 bicicleta.rb
+-rw-rw-r-- 1 nen nen 1156 sep 29 21:31 ciclista.rb
+-rw-rw-r-- 1 nen nen  593 sep 29 21:31 club.rb
+-rw-rw-r-- 1 nen nen  635 sep 29 21:33 Prueba_Club.rb
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club_Ruby/nbproject:
+total 12
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 private
+-rw-rw-r-- 1 nen nen  112 sep 29 21:13 project.properties
+-rw-rw-r-- 1 nen nen  547 sep 29 21:13 project.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club_Ruby/nbproject/private:
+total 8
+-rw-rw-r-- 1 nen nen 804 sep 29 21:33 private.xml
+-rw-rw-r-- 1 nen nen 523 oct  7 11:45 rake-d.txt
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club_Ruby/spec:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/El_Club_Ruby/test:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta:
+total 20
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 build
+-rw-rw-r-- 1 nen nen 3548 sep 27 13:11 build.xml
+-rw-rw-r-- 1 nen nen   82 sep 27 13:11 manifest.mf
+drwxrwxr-x 3 nen nen 4096 oct 27 11:23 nbproject
+drwxrwxr-x 4 nen nen 4096 oct 27 11:23 src
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta/build:
+total 4
+drwxrwxr-x 4 nen nen 4096 oct 27 11:24 classes
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta/build/classes:
+total 8
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 OtroPaquete
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 UnPaquete
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta/build/classes/OtroPaquete:
+total 4
+-rw-rw-r-- 1 nen nen 729 sep 30 12:25 PruebaBicicleta1.class
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta/build/classes/UnPaquete:
+total 8
+-rw-rw-r-- 1 nen nen 2273 sep 30 11:42 Bicicleta.class
+-rw-rw-r-- 1 nen nen  725 sep 30 11:48 PruebaBicicleta0.class
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta/nbproject:
+total 96
+-rw-rw-r-- 1 nen nen 77927 sep 27 13:11 build-impl.xml
+-rw-rw-r-- 1 nen nen   467 sep 27 13:11 genfiles.properties
+drwxrwxr-x 2 nen nen  4096 oct 27 11:24 private
+-rw-rw-r-- 1 nen nen  2658 sep 30 11:26 project.properties
+-rw-rw-r-- 1 nen nen   505 sep 27 13:11 project.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta/nbproject/private:
+total 8
+-rw-rw-r-- 1 nen nen   0 sep 27 13:11 config.properties
+-rw-rw-r-- 1 nen nen 184 sep 30 11:26 private.properties
+-rw-rw-r-- 1 nen nen 422 sep 30 12:25 private.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta/src:
+total 8
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 OtroPaquete
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 UnPaquete
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta/src/OtroPaquete:
+total 4
+-rw-rw-r-- 1 nen nen 3730 sep 30 12:25 PruebaBicicleta1.java
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta/src/UnPaquete:
+total 12
+-rw-rw-r-- 1 nen nen 5639 sep 30 11:48 Bicicleta.java
+-rw-rw-r-- 1 nen nen 3859 sep 30 11:48 PruebaBicicleta0.java
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta_Ruby:
+total 40
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 lib
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 lib (1)
+-rw-rw-r-- 1 nen nen   69 sep 27 21:53 LICENSE
+drwxrwxr-x 4 nen nen 4096 oct 27 11:23 nbproject
+-rw-rw-r-- 1 nen nen 1338 sep 27 21:53 Rakefile
+-rw-rw-r-- 1 nen nen   61 sep 27 21:53 README
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 spec
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 spec (1)
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 test
+drwxrwxr-x 2 nen nen 4096 oct 27 11:23 test (1)
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta_Ruby/lib:
+total 12
+-rw-rw-r-- 1 nen nen 5889 sep 30 13:59 bicicleta.rb
+-rw-rw-r-- 1 nen nen 1788 sep 30 14:04 prueba_bicicleta.rb
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta_Ruby/lib (1):
+total 12
+-rw-rw-r-- 1 nen nen 5889 sep 30 13:59 bicicleta.rb
+-rw-rw-r-- 1 nen nen 1788 sep 30 14:04 prueba_bicicleta.rb
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta_Ruby/nbproject:
+total 16
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 private
+drwxrwxr-x 2 nen nen 4096 oct 27 11:24 private (1)
+-rw-rw-r-- 1 nen nen  123 sep 30 13:36 project.properties
+-rw-rw-r-- 1 nen nen  552 sep 27 21:53 project.xml
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta_Ruby/nbproject/private:
+total 8
+-rw-rw-r-- 1 nen nen 619 sep 30 14:05 private.xml
+-rw-rw-r-- 1 nen nen 548 sep 30 12:23 rake-d.txt
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta_Ruby/nbproject/private (1):
+total 8
+-rw-rw-r-- 1 nen nen 619 sep 30 14:05 private.xml
+-rw-rw-r-- 1 nen nen 548 sep 30 12:23 rake-d.txt
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta_Ruby/spec:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta_Ruby/spec (1):
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta_Ruby/test:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema21/La_Bicicleta_Ruby/test (1):
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/PDOO/Teoria/Tema2/Tema22:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/SCD:
+total 12
+-rw-rw-r-- 1 nen nen   30 oct  7 18:31 Password.txt
+drwxrwxr-x 5 nen nen 4096 oct 27 11:06 Practicas
+drwxrwxr-x 2 nen nen 4096 oct 27 08:37 Teoria
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/SCD/Practicas:
+total 468
+-rw-rw-r-- 1 nen nen   2012 oct  7 19:54 calculointegral.cpp
+-rw-rw-r-- 1 nen nen   1493 oct  7 19:44 descarga
+drwxrwxr-x 2 nen nen   4096 oct 29 09:45 Practica 1
+drwxrwxr-x 2 nen nen   4096 oct 29 09:45 Practica 2
+drwxrwxr-x 3 nen nen   4096 oct  7 19:41 Prueba Integrales Windows
+-rw-rw-r-- 1 nen nen 454885 oct  1 09:42 scd-se01.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/SCD/Practicas/Practica 1:
+total 764
+-rw-rw-r-- 1 nen nen   2465 oct  7 21:44 calculointegral.cpp
+-rw-rw-r-- 1 nen nen   4368 oct  7 21:47 calculointegral.o
+-rw-rw-r-- 1 nen nen   2948 oct  7 18:57 calulointegral.o
+-rw-rw-r-- 1 nen nen    578 oct  7 21:20 ejemplopractica.cpp
+-rw-rw-r-- 1 nen nen   8027 oct  7 21:20 ejemplopratica
+-rw-rw-r-- 1 nen nen   4704 oct  1 09:42 ejemplos.cpp
+-rw-rw-r-- 1 nen nen   2533 oct  1 09:43 fun_tiempo.c
+-rw-rw-r-- 1 nen nen    775 oct  1 09:43 fun_tiempo.h
+-rw-rw-r-- 1 nen nen   2444 oct  7 21:45 fun_tiempo.o
+-rw-rw-r-- 1 nen nen   1259 oct  1 09:43 makefile.txt
+-rw-rw-r-- 1 nen nen  55808 oct  7 19:48 pthreadVC2.dll
+-rw-rw-r-- 1 nen nen 212612 oct  1 09:43 scd-pr01.pdf
+-rw-rw-r-- 1 nen nen 454885 oct  1 09:42 scd-se01.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/SCD/Practicas/Practica 2:
+total 52
+-rwxrwxr-x 1 nen nen  8417 oct 22 20:51 fumadores
+-rw-rw-r-- 1 nen nen  1314 oct 23 10:18 fumadores~
+-rw-rw-r-- 1 nen nen   787 oct 22 19:59 FUMADORES
+-rw-rw-r-- 1 nen nen  1404 oct 22 20:49 fumadores.cpp
+-rwxrwxr-x 1 nen nen 14138 oct 22 19:53 productoconsum
+-rw-rw-r-- 1 nen nen  1338 oct 22 19:55 productorconsumidor (1).cpp~
+-rw-rw-r-- 1 nen nen  1338 oct 22 19:53 productorconsumidor.cpp
+-rw-rw-r-- 1 nen nen  1338 oct 23 10:18 productorconsumidor.cpp~
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/SCD/Practicas/Prueba Integrales Windows:
+total 4
+drwxrwxr-x 4 nen nen 4096 oct 27 11:06 Integrales
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/SCD/Practicas/Prueba Integrales Windows/Integrales:
+total 7276
+drwxrwxr-x 2 nen nen    4096 oct  7 19:41 Debug
+drwxrwxr-x 3 nen nen    4096 oct  7 19:42 Integrales
+-rw-rw-r-- 1 nen nen      20 oct  7 19:55 Integrales (1).opensdf
+-rw-rw-r-- 1 nen nen      20 oct  7 19:41 Integrales.opensdf
+-rw-rw-r-- 1 nen nen 7405568 oct  7 19:56 Integrales.sdf
+-rw-rw-r-- 1 nen nen    1004 oct  7 19:41 Integrales.sln
+-rw-rw-r-- 1 nen nen   21504 oct  7 19:56 Integrales.v12.suo
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/SCD/Practicas/Prueba Integrales Windows/Integrales/Debug:
+total 0
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/SCD/Practicas/Prueba Integrales Windows/Integrales/Integrales:
+total 16
+drwxrwxr-x 3 nen nen 4096 oct  7 19:41 Debug
+-rw-rw-r-- 1 nen nen 3498 oct  7 19:53 Integrales.vcxproj
+-rw-rw-r-- 1 nen nen 1020 oct  7 19:41 Integrales.vcxproj.filters
+-rw-rw-r-- 1 nen nen  377 oct  7 19:42 Integrales.vcxproj.user
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/SCD/Practicas/Prueba Integrales Windows/Integrales/Integrales/Debug:
+total 296
+-rw-rw-r-- 1 nen nen   1078 oct  7 19:54 Integrales.log
+drwxrwxr-x 2 nen nen   4096 oct  7 19:41 Integrales.tlog
+-rw-rw-r-- 1 nen nen 125952 oct  7 19:54 vc120.idb
+-rw-rw-r-- 1 nen nen 167936 oct  7 19:54 vc120.pdb
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/SCD/Practicas/Prueba Integrales Windows/Integrales/Integrales/Debug/Integrales.tlog:
+total 20
+-rw-rw-r-- 1 nen nen  778 oct  7 19:54 cl.command.1.tlog
+-rw-rw-r-- 1 nen nen 7088 oct  7 19:54 CL.read.1.tlog
+-rw-rw-r-- 1 nen nen  858 oct  7 19:54 CL.write.1.tlog
+-rw-rw-r-- 1 nen nen  264 oct  7 19:54 Integrales.lastbuildstate
+-rw-rw-r-- 1 nen nen    0 oct  7 19:54 unsuccessfulbuild
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/SCD/Teoria:
+total 3008
+-rw-rw-r-- 1 nen nen 1849856 sep 25 18:58 Arquitectura Intel.pps
+-rw-rw-r-- 1 nen nen      30 oct 27 08:34 contraseña.txt
+-rw-rw-r-- 1 nen nen  252275 oct 27 08:37 scd-prob-enu-t1 (1).pdf
+-rw-rw-r-- 1 nen nen  145006 oct  7 18:31 scd-prob-enu-t1.pdf
+-rw-rw-r-- 1 nen nen  395385 oct 27 08:34 scd-te01.pdf
+-rw-rw-r-- 1 nen nen  422859 oct 27 08:35 scd-te02.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/Sistemas Operativos:
+total 76
+drwxrwxr-x 2 nen nen  4096 oct 27 11:21 Ejercicios
+drwxrwxr-x 6 nen nen  4096 oct 30 09:22 Practicas
+-rw-r----- 1 nen nen   284 oct 29 09:48 SO-T-tema1-lecturas_2014-15.txt
+drwxrwxr-x 3 nen nen  4096 oct 27 11:22 Teoria
+-rw-rw-r-- 1 nen nen 57036 oct 22 16:56 trabajoGrupo1_2014-15.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/Sistemas Operativos/Ejercicios:
+total 28
+-rw-rw-r-- 1 nen nen 25332 oct 25 00:17 RelacionProblemasTemas1y2-2014-15.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/Sistemas Operativos/Practicas:
+total 4560
+drwxrwxr-x 2 nen nen    4096 oct 27 11:22 MODI-sesion1
+-rw-rw-r-- 1 nen nen  332676 oct  5 01:13 MODI-sesion1.zip
+drwxrwxr-x 2 nen nen    4096 oct 27 11:22 MODI-sesion2
+-rw-rw-r-- 1 nen nen  350849 oct  8 18:07 MODI-sesion2.zip
+drwxrwxr-x 2 nen nen    4096 oct 27 11:22 MODI-sesion3
+-rw-rw-r-- 1 nen nen 1396047 oct 18 12:30 MODI-sesion3.zip
+drwxrwxr-x 2 nen nen    4096 oct 30 10:33 MODI-sesion4
+-rw-rw-r-- 1 nen nen  269939 oct 25 00:17 MODI-sesion4.zip
+-rw-rw-r-- 1 nen nen     162 oct  5 01:21 ~$-P-Modulo1-Sesion1-Autoevaluacion (1).odt
+-rw-rw-r-- 1 nen nen     162 oct  8 18:11 ~$-P-Modulo1-Sesion1-Autoevaluacion.odt
+-rw-rw-r-- 1 nen nen   16354 oct 10  2011 SO-P-ManualEditor-vi.pdf
+-rw-rw-r-- 1 nen nen   35800 oct 10  2011 SO-P-Modulo1-Sesion1-Autoevaluacion.odt
+-rw-rw-r-- 1 nen nen  424827 oct  1 17:22 SO-P-Modulo1-Sesion1-Guion.pdf
+-rw-rw-r-- 1 nen nen 1773169 oct 17 14:55 SO-P-Modulo1-Sesion3-Guion.pdf
+-rw-rw-r-- 1 nen nen   33848 oct 17 15:02 todos-P-Modulo1-Sesion3-Autoevaluacion.odt
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/Sistemas Operativos/Practicas/MODI-sesion1:
+total 512
+-rw-rw-r-- 1 nen nen    119 oct 16 11:01 entrarroot.sh
+-rw-rw-r-- 1 nen nen    189 oct  9 20:59 inicio.sh
+-rw-rw-r-- 1 nen nen    162 oct  8 20:23 ~$-P-Modulo1-Sesion1-Autoevaluacion (1).odt
+-rw-rw-r-- 1 nen nen    162 oct  9 20:59 ~$-P-Modulo1-Sesion1-Autoevaluacion.odt
+-rw-rw-r-- 1 nen nen  16354 oct 10  2011 SO-P-ManualEditor-vi.pdf
+-rw-rw-r-- 1 nen nen  25654 oct  9 21:32 SO-P-Modulo1-Sesion1-Autoevaluacion.odt
+-rw-rw-r-- 1 nen nen 424827 oct  1 17:22 SO-P-Modulo1-Sesion1-Guion.pdf
+-rw-rw-r-- 1 nen nen  35800 oct 10  2011 ~WRL0059.tmp
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/Sistemas Operativos/Practicas/MODI-sesion2:
+total 816
+-rw-rw-r-- 1 nen nen  94053 oct 16 21:13 Captura de pantalla de 2014-10-16 21^%13^%21.png
+-rw-rw-r-- 1 nen nen     58 oct 16 21:36 Documento sin título 1
+-rw-rw-r-- 1 nen nen    162 oct 16 19:11 ~$-P-Modulo1-Sesion2-Autoevaluacion (1).odt
+-rw-rw-r-- 1 nen nen    162 oct 16 19:07 ~$-P-Modulo1-Sesion2-Autoevaluacion.odt
+-rw-rw-r-- 1 nen nen    162 oct 16 22:11 ~$-Practica-Modulo1-Sesion2-Autoevalucion-Emilio-Chica-Jimenez.odt
+-rw-rw-r-- 1 nen nen  46766 oct 16 19:11 SO-P-Modulo1-Sesion2-Autoevaluacion.odt
+-rw-rw-r-- 1 nen nen 467438 oct  2 09:05 SO-P-Modulo1-Sesion2-Guion.pdf
+-rw-rw-r-- 1 nen nen 118508 oct 16 22:11 SO-Practica-Modulo1-Sesion2-Autoevalucion-Emilio-Chica-Jimenez.odt
+-rw-rw-r-- 1 nen nen  59853 oct 16 22:11 SO-Practica-Modulo1-Sesion2-Autoevalucion-Emilio-Chica-Jimenez.pdf
+-rw-rw-r-- 1 nen nen  23261 oct 16 19:16 ~WRL0005.tmp
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/Sistemas Operativos/Practicas/MODI-sesion3:
+total 1904
+-rw-rw-r-- 1 nen nen     162 oct 25 00:16 ~$actica 3.odt
+-rw-rw-r-- 1 nen nen     162 oct 24 22:33 ~$dos-P-Modulo1-Sesion3-Autoevaluacion (1).odt
+-rw-rw-r-- 1 nen nen     162 oct 24 22:38 ~$dos-P-Modulo1-Sesion3-Autoevaluacion (2).odt
+-rw-rw-r-- 1 nen nen     162 oct 23 20:04 ~$dos-P-Modulo1-Sesion3-Autoevaluacion.odt
+-rwxrwxr-x 1 nen nen     114 oct 23 10:41 ejercicio32.sh
+-rw-rw-r-- 1 nen nen     130 oct 23 10:41 ejercicio32.sh~
+-rw-rw-r-- 1 nen nen   43642 oct 25 00:16 Emilio-Chica-Jimenez-Practica-3-SO.pdf
+-rw-rw-r-- 1 nen nen   27221 oct 25 00:15 Practica 3.odt
+-rw-rw-r-- 1 nen nen 1773169 oct 17 14:55 SO-P-Modulo1-Sesion3-Guion.pdf
+-rw-rw-r-- 1 nen nen   46528 oct 24 22:37 todos-P-Modulo1-Sesion3-Autoevaluacion.odt
+-rw-rw-r-- 1 nen nen   26680 oct 24 23:26 ~WRL1470.tmp
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/Sistemas Operativos/Practicas/MODI-sesion4:
+total 432
+-rw-rw-r-- 1 nen  nen       0 oct 30 10:18 Apuntes practica 4
+-rw-rw-r-- 1 nen  nen      25 oct 30 10:24 genera-apunte~
+-rwxrwxr-x 1 nen  nen      57 oct 30 10:31 genera-apunte.sh
+-rwxrwxr-x 1 nen  nen      57 oct 30 10:26 genera-apunte.sh~
+-rw-r--r-- 1 root root  77824 oct 30 10:33 listahome-2014-303-10:33:01-3955
+-rw-r--r-- 1 nen  nen   33839 oct 30 10:14 SO-P-Modulo1-Sesion4-Autoevaluacion.odt
+-rw-r--r-- 1 nen  nen  314559 ene  1  2001 SO-P-Modulo1-Sesion4-Guion.pdf
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/Sistemas Operativos/Teoria:
+total 211492
+-rw-rw-r-- 1 nen nen    628584 oct  5 15:28 Entrada-Salida(AC06-07).pdf
+-rw-rw-r-- 1 nen nen 122078788 oct  7 22:16 Fedora14-x86-root_fs.gz
+-rw-rw-r-- 1 nen nen    971142 oct 26 16:56 Interpretacion de un proceso de ES por el procesador.pdf
+-rw-rw-r-- 1 nen nen  83814586 oct  7 22:17 kernel32-3.0.4
+-rw-rw-r-- 1 nen nen   8994986 sep 29 17:24 Stalling - Operation Systems Desing.pdf
+-rw-rw-r-- 1 nen nen     57036 sep 30 21:30 trabajoGrupo1_2014-15.pdf
+drwxrwxr-x 2 nen nen      4096 oct 27 11:22 Trabajos en Grupo
+
+/home/nen/Google Drive/Grado/1Cuatrimestre/Sistemas Operativos/Teoria/Trabajos en Grupo:
+total 52
+-rw-rw-r-- 1 nen nen   162 oct  5 14:31 ~$abajo en Grupo.docx
+-rw-rw-r-- 1 nen nen   150 oct 27 11:21 desktop.ini
+-rw-rw-r-- 1 nen nen 22324 oct  5 15:34 Trabajo en Grupo.docx
+-rw-rw-r-- 1 nen nen 18143 oct  5 14:31 ~WRL3903.tmp
+
+/home/nen/Google Drive/SUPERDESPEDIDAS:
+total 8
+drwxrwxr-x 2 nen nen 4096 oct  8 01:37 IMAGENES
+-rw------- 1 nen nen  592 mar 24  2014 User y pass.txt
+
+/home/nen/Google Drive/SUPERDESPEDIDAS/IMAGENES:
+total 52636
+-rw------- 1 nen nen  573266 mar 25  2014 100_0626.JPG
+-rw------- 1 nen nen 2361806 mar 25  2014 1147773_26902981.jpg
+-rw------- 1 nen nen 1149088 mar 25  2014 357979_8694.jpg
+-rw------- 1 nen nen 3193872 mar 25  2014 587469_23798251.jpg
+-rw------- 1 nen nen  615225 mar 25  2014 615460_17421582.jpg
+-rw------- 1 nen nen  602741 mar 25  2014 617889_83780784.jpg
+-rw------- 1 nen nen  550741 mar 25  2014 617892_67231877.jpg
+-rw------- 1 nen nen  551425 mar 25  2014 617893_91505363.jpg
+-rw------- 1 nen nen  683869 mar 25  2014 761122_28023678.jpg
+-rw------- 1 nen nen   92243 mar 25  2014 772418_81237637.jpg
+-rw------- 1 nen nen 1063939 mar 25  2014 777060_28725674.jpg
+-rw------- 1 nen nen 2783563 mar 25  2014 886722_42162101.jpg
+-rw------- 1 nen nen  695995 mar 25  2014 classy_restaurant_11766324_by_stockproject1-d38k1kg.jpg
+-rw------- 1 nen nen  683769 mar 25  2014 file0001391687760.jpg
+-rw------- 1 nen nen  697445 mar 25  2014 file0001434774256.jpg
+-rw------- 1 nen nen 4293548 mar 25  2014 file0001523230941.jpg
+-rw------- 1 nen nen  306595 mar 25  2014 file0001562729035.jpg
+-rw------- 1 nen nen 1980898 mar 25  2014 file000175109474.jpg
+-rw------- 1 nen nen 4921014 mar 25  2014 file000204041479.jpg
+-rw------- 1 nen nen 4094791 mar 25  2014 file0002076407015.jpg
+-rw------- 1 nen nen  358946 mar 25  2014 file0002122593801.jpg
+-rw------- 1 nen nen 1046313 mar 25  2014 file000329707310.jpg
+-rw------- 1 nen nen  437358 mar 25  2014 file000568500329.jpg
+-rw------- 1 nen nen 2126376 mar 25  2014 file000799088404.jpg
+-rw------- 1 nen nen  505826 mar 25  2014 file000892149092.jpg
+-rw------- 1 nen nen  170637 mar 25  2014 file7991235062563.jpg
+-rw------- 1 nen nen 3438741 mar 25  2014 file9921266670344.jpg
+-rw------- 1 nen nen   84944 mar 25  2014 ID-100208266.jpg
+-rw------- 1 nen nen  110281 mar 25  2014 ID-100209396.jpg
+-rw------- 1 nen nen  126126 mar 25  2014 ID-100233394.jpg
+-rw------- 1 nen nen  122515 mar 25  2014 ID-100233395.jpg
+-rw------- 1 nen nen   97647 mar 25  2014 ID-10054113.jpg
+-rw------- 1 nen nen  110366 mar 25  2014 ID-10054126.jpg
+-rw------- 1 nen nen  114186 mar 25  2014 ID-10054127.jpg
+-rw------- 1 nen nen   90446 mar 25  2014 ID-10054169.jpg
+-rw------- 1 nen nen   67288 mar 25  2014 ID-10062378.jpg
+-rw------- 1 nen nen   72553 mar 25  2014 ID-10071824.jpg
+-rw------- 1 nen nen 1225697 mar 25  2014 Paintball_Action_II.jpg
+-rw------- 1 nen nen  690495 mar 25  2014 paintball_pics__by_spacemonkey92143.jpg
+-rw------- 1 nen nen 3739779 mar 25  2014 spotlights_01.zip
+-rw------- 1 nen nen 1751829 mar 25  2014 stockvault-cocktails104543.jpg
+-rw------- 1 nen nen 1838322 mar 25  2014 stockvault-crowd-at-a-concert132431.jpg
+-rw------- 1 nen nen 3607949 mar 25  2014 What__s_in_a_Name__by_ruabuddha.jpg
+
+/home/nen/Google Drive/Tutoriales para crear themes de wordpress:
+total 461156
+-rw------- 1 nen nen  26140980 mar 10  2013 Desarmando WordPress - Pieza 1.mp4
+-rw------- 1 nen nen  27593682 mar 12  2013 Desarmando WordPress - Pieza 2.mp4
+-rw------- 1 nen nen  24569384 mar 12  2013 Desarmando WordPress - Pieza 3.mp4
+-rw------- 1 nen nen  33591291 mar 12  2013 Desarmando WordPress - Pieza 4.mp4
+-rw------- 1 nen nen  30775396 mar 12  2013 Desarmando WordPress - Pieza 5.mp4
+-rw------- 1 nen nen  29530293 mar 12  2013 Desarmando WordPress - Pieza 6.mp4
+-rw------- 1 nen nen  19093373 mar 12  2013 Desarmando WordPress - Pieza 7.mp4
+-rw------- 1 nen nen 280912510 mar  5  2013 Videotutorial para crear themes de Wordpress con Adobe CS4 - Nosolocodigo  parte 2.mp4
+
+/home/nen/Imágenes:
+total 0
+
+/home/nen/Música:
+total 0
+
+/home/nen/Plantillas:
+total 0
+
+/home/nen/Público:
+total 0
+
+/home/nen/Vídeos:
+total 0

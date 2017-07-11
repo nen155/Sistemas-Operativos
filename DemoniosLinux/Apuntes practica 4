@@ -1,0 +1,31 @@
+4.1)
+
+Se queda en el directorio desde donde se ejecuto.
+
+
+
+4.2)
+
+at 00:00 -v //LO EJECUTA A MEDIA NOCHE DE HOY
+Fri Oct 31 00:00:00 2014
+//LISTADO DE TAREAS
+atq
+5	Fri Oct 31 00:00:00 2014 a root
+//ELIMINA LA TAREA POR SU NUMERO
+atrm 5
+
+
+4.4)
+
+Es hijo del proceso sh ya que tiene su PPID
+
+5.1)
+crontab -e
+
+cada minuto:
+* * * * * /home/nen/Desktop/procesoejerc4.4.sh
+
+5.2)
+
+#!/bin/bash
+rm -v /tmp/varios/core* >> /tmp/listacores
